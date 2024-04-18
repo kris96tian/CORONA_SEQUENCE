@@ -1,0 +1,761 @@
+Corona Virus Genome ("OM095411.1"/Omicron") translated:
+
+Amino Acid Sequence:
+
+Methionine - Leucine - Serine - Alanine - Leucine - Threonine - Glutamine - Tyrosine - Asparagine 
+
+ Leucine - Isoleucine - Threonine - Valine - Valine - Aspartic Acid - Arginine - Threonine - Arginine - Valine - Threonine - Arginine - Leucine - Serine - Serine - Alanine - Glycine - Cysteine - Leucine - Arginine - Phenylalanine - Arginine - Proline - Cysteine - Cysteine - Serine - Arginine - Serine - Serine - Alanine - Histidine - Leucine - Glycine - Phenylalanine - Valine - Arginine - Valine 
+
+ Proline - Lysine - Glycine - Lysine - Methionine - Glutamic Acid - Serine - Leucine - Valine - Proline - Glycine - Phenylalanine - Asparagine - Glutamic Acid - Lysine - Threonine - Histidine - Valine - Glutamine - Leucine - Serine - Leucine - Proline - Valine - Leucine - Glutamine - Valine - Arginine - Aspartic Acid - Valine - Leucine - Valine - Arginine - Glycine - Phenylalanine - Glycine - Aspartic Acid - Serine - Valine - Glutamic Acid - Glutamic Acid - Valine - Leucine - Serine - Glutamic Acid - Alanine - Arginine - Glutamine - Histidine - Leucine - Lysine - Aspartic Acid - Glycine - Threonine - Cysteine - Glycine - Leucine - Valine - Glutamic Acid - Valine - Glutamic Acid - Lysine - Glycine - Valine - Leucine - Proline - Glutamine - Leucine - Glutamic Acid - Glutamine - Proline - Tyrosine - Valine - Phenylalanine - Isoleucine - Lysine - Arginine - Serine - Aspartic Acid - Alanine - Arginine - Threonine - Alanine - Proline - Histidine - Glycine - Histidine - Valine - Methionine - Valine - Glutamic Acid - Leucine - Valine - Alanine - Glutamic Acid - Leucine - Glutamic Acid - Glycine - Isoleucine - Glutamine - Tyrosine - Glycine - Arginine - Serine - Glycine - Glutamic Acid - Threonine - Leucine - Glycine - Valine - Leucine - Valine - Proline - Histidine - Valine - Glycine - Glutamic Acid - Isoleucine - Proline - Valine - Alanine - Tyrosine - Arginine - Lysine - Valine - Leucine - Leucine - Arginine - Lysine - Asparagine - Glycine - Asparagine - Lysine - Glycine - Alanine - Glycine - Glycine - Histidine - Serine - Tyrosine - Glycine - Alanine - Aspartic Acid - Leucine - Lysine - Serine - Phenylalanine - Aspartic Acid - Leucine - Glycine - Aspartic Acid - Glutamic Acid - Leucine - Glycine - Threonine - Aspartic Acid - Proline - Tyrosine - Glutamic Acid - Aspartic Acid - Phenylalanine - Glutamine - Glutamic Acid - Asparagine - Tryptophan - Asparagine - Threonine - Lysine - Histidine - Serine - Serine - Glycine - Valine - Threonine - Arginine - Glutamic Acid - Leucine - Methionine - Arginine - Glutamic Acid - Leucine - Asparagine - Glycine - Glycine - Alanine - Tyrosine - Threonine - Arginine - Tyrosine - Valine - Aspartic Acid - Asparagine - Asparagine - Phenylalanine - Cysteine - Glycine - Proline - Aspartic Acid - Glycine - Tyrosine - Proline - Leucine - Glutamic Acid - Cysteine - Isoleucine - Lysine - Aspartic Acid - Leucine - Leucine - Alanine - Arginine - Alanine - Glycine - Lysine - Alanine - Serine - Cysteine - Threonine - Leucine - Serine - Glutamic Acid - Glutamine - Leucine - Aspartic Acid - Phenylalanine - Isoleucine - Aspartic Acid - Threonine - Lysine - Arginine - Glycine - Valine - Tyrosine - Cysteine - Cysteine - Arginine - Glutamic Acid - Histidine - Glutamic Acid - Histidine - Glutamic Acid - Isoleucine - Alanine - Tryptophan - Tyrosine - Threonine - Glutamic Acid - Arginine - Serine - Glutamic Acid - Lysine - Serine - Tyrosine - Glutamic Acid - Leucine - Glutamine - Threonine - Proline - Phenylalanine - Glutamic Acid - Isoleucine - Lysine - Leucine - Alanine - Lysine - Lysine - Phenylalanine - Aspartic Acid - Threonine - Phenylalanine - Asparagine - Glycine - Glutamic Acid - Cysteine - Proline - Asparagine - Phenylalanine - Valine - Phenylalanine - Proline - Leucine - Asparagine - Serine - Isoleucine - Isoleucine - Lysine - Threonine - Isoleucine - Glutamine - Proline - Arginine - Valine - Glutamic Acid - Lysine - Lysine - Lysine - Leucine - Aspartic Acid - Glycine - Phenylalanine - Methionine - Glycine - Arginine - Isoleucine - Arginine - Serine - Valine - Tyrosine - Proline - Valine - Alanine - Serine - Proline - Asparagine - Glutamic Acid - Cysteine - Asparagine - Glutamine - Methionine - Cysteine - Leucine - Serine - Threonine - Leucine - Methionine - Lysine - Cysteine - Aspartic Acid - Histidine - Cysteine - Glycine - Glutamic Acid - Threonine - Serine - Tryptophan - Glutamine - Threonine - Glycine - Aspartic Acid - Phenylalanine - Valine - Lysine - Alanine - Threonine - Cysteine - Glutamic Acid - Phenylalanine - Cysteine - Glycine - Threonine - Glutamic Acid - Asparagine - Leucine - Threonine - Lysine - Glutamic Acid - Glycine - Alanine - Threonine - Threonine - Cysteine - Glycine - Tyrosine - Leucine - Proline - Glutamine - Asparagine - Alanine - Valine - Valine - Lysine - Isoleucine - Tyrosine - Cysteine - Proline - Alanine - Cysteine - Histidine - Asparagine - Serine - Glutamic Acid - Valine - Glycine - Proline - Glutamic Acid - Histidine - Serine - Leucine - Alanine - Glutamic Acid - Tyrosine - Histidine - Asparagine - Glutamic Acid - Serine - Glycine - Leucine - Lysine - Threonine - Isoleucine - Leucine - Arginine - Lysine - Glycine - Glycine - Arginine - Threonine - Isoleucine - Alanine - Phenylalanine - Glycine - Glycine - Cysteine - Valine - Phenylalanine - Serine - Tyrosine - Valine - Glycine - Cysteine - Histidine - Asparagine - Lysine - Cysteine - Alanine - Tyrosine - Tryptophan - Valine - Proline - Arginine - Alanine - Serine - Alanine - Asparagine - Isoleucine - Glycine - Cysteine - Asparagine - Histidine - Threonine - Glycine - Valine - Valine - Glycine - Glutamic Acid - Glycine - Serine - Glutamic Acid - Glycine - Leucine - Asparagine - Aspartic Acid - Asparagine - Leucine - Leucine - Glutamic Acid - Isoleucine - Leucine - Glutamine - Lysine - Glutamic Acid - Lysine - Valine - Asparagine - Isoleucine - Asparagine - Isoleucine - Valine - Glycine - Aspartic Acid - Phenylalanine - Lysine - Leucine - Asparagine - Glutamic Acid - Glutamic Acid - Isoleucine - Alanine - Isoleucine - Isoleucine - Leucine - Alanine - Serine - Phenylalanine - Serine - Alanine - Serine - Threonine - Serine - Alanine - Phenylalanine - Valine - Glutamic Acid - Threonine - Valine - Lysine - Glycine - Leucine - Aspartic Acid - Tyrosine - Lysine - Alanine - Phenylalanine - Lysine - Glutamine - Isoleucine - Valine - Glutamic Acid - Serine - Cysteine - Glycine - Asparagine - Phenylalanine - Lysine - Valine - Threonine - Lysine - Glycine - Lysine - Alanine - Lysine - Lysine - Glycine - Alanine - Tryptophan - Asparagine - Isoleucine - Glycine - Glutamic Acid - Glutamine - Lysine - Serine - Isoleucine - Leucine - Serine - Proline - Leucine - Tyrosine - Alanine - Phenylalanine - Alanine - Serine - Glutamic Acid - Alanine - Alanine - Arginine - Valine - Valine - Arginine - Serine - Isoleucine - Phenylalanine - Serine - Arginine - Threonine - Leucine - Glutamic Acid - Threonine - Alanine - Glutamine - Asparagine - Serine - Valine - Arginine - Valine - Leucine - Glutamine - Lysine - Alanine - Alanine - Isoleucine - Threonine - Isoleucine - Leucine - Aspartic Acid - Glycine - Isoleucine - Serine - Glutamine - Tyrosine - Serine - Leucine - Arginine - Leucine - Isoleucine - Aspartic Acid - Alanine - Methionine - Methionine - Phenylalanine - Threonine - Serine - Aspartic Acid - Leucine - Alanine - Threonine - Asparagine - Asparagine - Leucine - Valine - Valine - Methionine - Alanine - Tyrosine - Isoleucine - Threonine - Glycine - Glycine - Valine - Valine - Glutamine - Leucine - Threonine - Serine - Glutamine - Tryptophan - Leucine - Threonine - Asparagine - Isoleucine - Phenylalanine - Glycine - Threonine - Valine - Tyrosine - Glutamic Acid - Lysine - Leucine - Lysine - Proline - Valine - Leucine - Aspartic Acid - Tryptophan - Leucine - Glutamic Acid - Glutamic Acid - Lysine - Phenylalanine - Lysine - Glutamic Acid - Glycine - Valine - Glutamic Acid - Phenylalanine - Leucine - Arginine - Aspartic Acid - Glycine - Tryptophan - Glutamic Acid - Isoleucine - Valine - Lysine - Phenylalanine - Isoleucine - Serine - Threonine - Cysteine - Alanine - Cysteine - Glutamic Acid - Isoleucine - Valine - Glycine - Glycine - Glutamine - Isoleucine - Valine - Threonine - Cysteine - Alanine - Lysine - Glutamic Acid - Isoleucine - Lysine - Glutamic Acid - Serine - Valine - Glutamine - Threonine - Phenylalanine - Phenylalanine - Lysine - Leucine - Valine - Asparagine - Lysine - Phenylalanine - Leucine - Alanine - Leucine - Cysteine - Alanine - Aspartic Acid - Serine - Isoleucine - Isoleucine - Isoleucine - Glycine - Glycine - Alanine - Lysine - Leucine - Lysine - Alanine - Leucine - Asparagine - Leucine - Glycine - Glutamic Acid - Threonine - Phenylalanine - Valine - Threonine - Histidine - Serine - Lysine - Glycine - Leucine - Tyrosine - Arginine - Lysine - Cysteine - Valine - Lysine - Serine - Arginine - Glutamic Acid - Glutamic Acid - Threonine - Glycine - Leucine - Leucine - Methionine - Proline - Leucine - Lysine - Alanine - Proline - Lysine - Glutamic Acid - Isoleucine - Isoleucine - Phenylalanine - Leucine - Glutamic Acid - Glycine - Glutamic Acid - Threonine - Leucine - Proline - Threonine - Glutamic Acid - Valine - Leucine - Threonine - Glutamic Acid - Glutamic Acid - Valine - Valine - Leucine - Lysine - Threonine - Glycine - Aspartic Acid - Leucine - Glutamine - Proline - Leucine - Glutamic Acid - Glutamine - Proline - Threonine - Serine - Glutamic Acid - Alanine - Valine - Glutamic Acid - Alanine - Proline - Leucine - Valine - Glycine - Threonine - Proline - Valine - Cysteine - Isoleucine - Asparagine - Glycine - Leucine - Methionine - Leucine - Leucine - Glutamic Acid - Isoleucine - Lysine - Aspartic Acid - Threonine - Glutamic Acid - Lysine - Tyrosine - Cysteine - Alanine - Leucine - Alanine - Proline - Asparagine - Methionine - Methionine - Valine - Threonine - Asparagine - Asparagine - Threonine - Phenylalanine - Threonine - Leucine - Lysine - Glycine - Glycine - Alanine - Proline - Threonine - Lysine - Valine - Threonine - Phenylalanine - Glycine - Aspartic Acid - Aspartic Acid - Threonine - Valine - Isoleucine - Glutamic Acid - Valine - Glutamine - Glycine - Tyrosine - Lysine - Serine - Valine - Asparagine - Isoleucine - Threonine - Phenylalanine - Glutamic Acid - Leucine - Aspartic Acid - Glutamic Acid - Arginine - Isoleucine - Aspartic Acid - Lysine - Valine - Leucine - Asparagine - Glutamic Acid - Arginine - Cysteine - Serine - Alanine - Tyrosine - Threonine - Valine - Glutamic Acid - Leucine - Glycine - Threonine - Glutamic Acid - Valine - Asparagine - Glutamic Acid - Phenylalanine - Alanine - Cysteine - Valine - Valine - Alanine - Aspartic Acid - Alanine - Valine - Isoleucine - Lysine - Threonine - Leucine - Glutamine - Proline - Valine - Serine - Glutamic Acid - Leucine - Leucine - Threonine - Proline - Leucine - Glycine - Isoleucine - Aspartic Acid - Leucine - Aspartic Acid - Glutamic Acid - Tryptophan - Serine - Methionine - Alanine - Threonine - Tyrosine - Tyrosine - Leucine - Phenylalanine - Aspartic Acid - Glutamic Acid - Serine - Glycine - Glutamic Acid - Phenylalanine - Lysine - Leucine - Alanine - Serine - Histidine - Methionine - Tyrosine - Cysteine - Serine - Phenylalanine - Tyrosine - Proline - Proline - Aspartic Acid - Glutamic Acid - Aspartic Acid - Glutamic Acid - Glutamic Acid - Glutamic Acid - Glycine - Aspartic Acid - Cysteine - Glutamic Acid - Glutamic Acid - Glutamic Acid - Glutamic Acid - Phenylalanine - Glutamic Acid - Proline - Serine - Threonine - Glutamine - Tyrosine - Glutamic Acid - Tyrosine - Glycine - Threonine - Glutamic Acid - Aspartic Acid - Aspartic Acid - Tyrosine - Glutamine - Glycine - Lysine - Proline - Leucine - Glutamic Acid - Phenylalanine - Glycine - Alanine - Threonine - Serine - Alanine - Alanine - Leucine - Glutamine - Proline - Glutamic Acid - Glutamic Acid - Glutamic Acid - Glutamine - Glutamic Acid - Glutamic Acid - Aspartic Acid - Tryptophan - Leucine - Aspartic Acid - Aspartic Acid - Aspartic Acid - Serine - Glutamine - Glutamine - Threonine - Valine - Glycine - Glutamine - Glutamine - Aspartic Acid - Glycine - Serine - Glutamic Acid - Aspartic Acid - Asparagine - Glutamine - Threonine - Threonine - Threonine - Isoleucine - Glutamine - Threonine - Isoleucine - Valine - Glutamic Acid - Valine - Glutamine - Proline - Glutamine - Leucine - Glutamic Acid - Methionine - Glutamic Acid - Leucine - Threonine - Proline - Valine - Valine - Glutamine - Threonine - Isoleucine - Glutamic Acid - Valine - Asparagine - Serine - Phenylalanine - Serine - Glycine - Tyrosine - Leucine - Lysine - Leucine - Threonine - Aspartic Acid - Asparagine - Valine - Tyrosine - Isoleucine - Lysine - Asparagine - Alanine - Aspartic Acid - Isoleucine - Valine - Glutamic Acid - Glutamic Acid - Alanine - Lysine - Lysine - Valine - Lysine - Proline - Threonine - Valine - Valine - Valine - Asparagine - Alanine - Alanine - Asparagine - Valine - Tyrosine - Leucine - Lysine - Histidine - Glycine - Glycine - Glycine - Valine - Alanine - Glycine - Alanine - Leucine - Asparagine - Lysine - Alanine - Threonine - Asparagine - Asparagine - Alanine - Methionine - Glutamine - Valine - Glutamic Acid - Serine - Aspartic Acid - Aspartic Acid - Tyrosine - Isoleucine - Alanine - Threonine - Asparagine - Glycine - Proline - Leucine - Lysine - Valine - Glycine - Glycine - Serine - Cysteine - Valine - Leucine - Serine - Glycine - Histidine - Asparagine - Leucine - Alanine - Lysine - Histidine - Cysteine - Leucine - Histidine - Valine - Valine - Glycine - Proline - Asparagine - Valine - Asparagine - Lysine - Glycine - Glutamic Acid - Aspartic Acid - Isoleucine - Glutamine - Leucine - Leucine - Lysine - Serine - Alanine - Tyrosine - Glutamic Acid - Asparagine - Phenylalanine - Asparagine - Glutamine - Histidine - Glutamic Acid - Valine - Leucine - Leucine - Alanine - Proline - Leucine - Leucine - Serine - Alanine - Glycine - Isoleucine - Phenylalanine - Glycine - Alanine - Aspartic Acid - Proline - Isoleucine - Histidine - Serine - Leucine - Arginine - Valine - Cysteine - Valine - Aspartic Acid - Threonine - Valine - Arginine - Threonine - Asparagine - Valine - Tyrosine - Leucine - Alanine - Valine - Phenylalanine - Aspartic Acid - Lysine - Asparagine - Leucine - Tyrosine - Aspartic Acid - Lysine - Leucine - Valine - Serine - Serine - Phenylalanine - Leucine - Glutamic Acid - Methionine - Lysine - Serine - Glutamic Acid - Lysine - Glutamine - Valine - Glutamic Acid - Glutamine - Lysine - Isoleucine - Alanine - Glutamic Acid - Isoleucine - Proline - Lysine - Glutamic Acid - Glutamic Acid - Valine - Lysine - Proline - Phenylalanine - Isoleucine - Threonine - Glutamic Acid - Serine - Lysine - Proline - Serine - Valine - Glutamic Acid - Glutamine - Arginine - Lysine - Glutamine - Aspartic Acid - Aspartic Acid - Lysine - Lysine - Isoleucine - Lysine - Alanine - Cysteine - Valine - Glutamic Acid - Glutamic Acid - Valine - Threonine - Threonine - Threonine - Leucine - Glutamic Acid - Glutamic Acid - Threonine - Lysine - Phenylalanine - Leucine - Threonine - Glutamic Acid - Asparagine - Leucine - Leucine - Leucine - Tyrosine - Isoleucine - Aspartic Acid - Isoleucine - Asparagine - Glycine - Asparagine - Leucine - Histidine - Proline - Aspartic Acid - Serine - Alanine - Threonine - Leucine - Valine - Serine - Aspartic Acid - Isoleucine - Aspartic Acid - Isoleucine - Threonine - Phenylalanine - Leucine - Lysine - Lysine - Aspartic Acid - Alanine - Proline - Tyrosine - Isoleucine - Valine - Glycine - Aspartic Acid - Valine - Valine - Glutamine - Glutamic Acid - Glycine - Valine - Leucine - Threonine - Alanine - Valine - Valine - Isoleucine - Proline - Threonine - Lysine - Lysine - Alanine - Glycine - Glycine - Threonine - Threonine - Glutamic Acid - Methionine - Leucine - Alanine - Lysine - Alanine - Leucine - Arginine - Lysine - Valine - Proline - Threonine - Aspartic Acid - Asparagine - Tyrosine - Isoleucine - Threonine - Threonine - Tyrosine - Proline - Glycine - Glutamine - Glycine - Leucine - Asparagine - Glycine - Tyrosine - Threonine - Valine - Glutamic Acid - Glutamic Acid - Alanine - Lysine - Threonine - Valine - Leucine - Lysine - Lysine - Cysteine - Lysine - Serine - Alanine - Phenylalanine - Tyrosine - Isoleucine - Leucine - Proline - Serine - Isoleucine - Isoleucine - Serine - Asparagine - Glutamic Acid - Lysine - Glutamine - Glutamic Acid - Isoleucine - Leucine - Glycine - Threonine - Valine - Serine - Tryptophan - Asparagine - Leucine - Arginine - Glutamic Acid - Methionine - Leucine - Alanine - Histidine - Alanine - Glutamic Acid - Glutamic Acid - Threonine - Arginine - Lysine - Leucine - Methionine - Proline - Valine - Cysteine - Valine - Glutamic Acid - Threonine - Lysine - Alanine - Isoleucine - Valine - Serine - Threonine - Isoleucine - Glutamine - Arginine - Lysine - Tyrosine - Lysine - Glycine - Isoleucine - Lysine - Isoleucine - Glutamine - Glutamic Acid - Glycine - Valine - Valine - Aspartic Acid - Tyrosine - Glycine - Alanine - Arginine - Phenylalanine - Tyrosine - Phenylalanine - Tyrosine - Threonine - Serine - Lysine - Threonine - Threonine - Valine - Alanine - Serine - Leucine - Isoleucine - Asparagine - Threonine - Leucine - Asparagine - Aspartic Acid - Leucine - Asparagine - Glutamic Acid - Threonine - Leucine - Valine - Threonine - Methionine - Proline - Leucine - Glycine - Tyrosine - Valine - Threonine - Histidine - Glycine - Leucine - Asparagine - Leucine - Glutamic Acid - Glutamic Acid - Alanine - Alanine - Arginine - Tyrosine - Methionine - Arginine - Serine - Leucine - Lysine - Valine - Proline - Alanine - Threonine - Valine - Serine - Valine - Serine - Serine - Proline - Aspartic Acid - Alanine - Valine - Threonine - Alanine - Tyrosine - Asparagine - Glycine - Tyrosine - Leucine - Threonine - Serine - Serine - Serine - Lysine - Threonine - Proline - Glutamic Acid - Glutamic Acid - Histidine - Phenylalanine - Isoleucine - Glutamic Acid - Threonine - Isoleucine - Serine - Leucine - Alanine - Glycine - Serine - Tyrosine - Lysine - Aspartic Acid - Tryptophan - Serine - Tyrosine - Serine - Glycine - Glutamine - Serine - Threonine - Glutamine - Leucine - Glycine - Isoleucine - Glutamic Acid - Phenylalanine - Leucine - Lysine - Arginine - Glycine - Aspartic Acid - Lysine - Serine - Valine - Tyrosine - Tyrosine - Threonine - Serine - Asparagine - Proline - Threonine - Threonine - Phenylalanine - Histidine - Leucine - Aspartic Acid - Glycine - Glutamic Acid - Valine - Isoleucine - Threonine - Phenylalanine - Aspartic Acid - Asparagine - Leucine - Lysine - Threonine - Leucine - Leucine - Serine - Leucine - Arginine - Glutamic Acid - Valine - Arginine - Threonine - Isoleucine - Lysine - Valine - Phenylalanine - Threonine - Threonine - Valine - Aspartic Acid - Asparagine - Isoleucine - Asparagine - Leucine - Histidine - Threonine - Glutamine - Valine - Valine - Aspartic Acid - Methionine - Serine - Methionine - Threonine - Tyrosine - Glycine - Glutamine - Glutamine - Phenylalanine - Glycine - Proline - Threonine - Tyrosine - Leucine - Aspartic Acid - Glycine - Alanine - Aspartic Acid - Valine - Threonine - Lysine - Isoleucine - Lysine - Proline - Histidine - Asparagine - Serine - Histidine - Glutamic Acid - Glycine - Lysine - Threonine - Phenylalanine - Tyrosine - Valine - Leucine - Proline - Asparagine - Aspartic Acid - Aspartic Acid - Threonine - Leucine - Arginine - Valine - Glutamic Acid - Alanine - Phenylalanine - Glutamic Acid - Tyrosine - Tyrosine - Histidine - Threonine - Threonine - Aspartic Acid - Proline - Serine - Phenylalanine - Leucine - Glycine - Arginine - Tyrosine - Methionine - Serine - Alanine - Leucine - Asparagine - Histidine - Threonine - Lysine - Lysine - Tryptophan - Lysine - Tyrosine - Proline - Glutamine - Valine - Asparagine - Glycine - Leucine - Threonine - Serine - Isoleucine - Lysine - Tryptophan - Alanine - Aspartic Acid - Asparagine - Asparagine - Cysteine - Tyrosine - Leucine - Alanine - Threonine - Alanine - Leucine - Leucine - Threonine - Leucine - Glutamine - Glutamine - Isoleucine - Glutamic Acid - Leucine - Lysine - Phenylalanine - Asparagine - Proline - Proline - Alanine - Leucine - Glutamine - Aspartic Acid - Alanine - Tyrosine - Tyrosine - Arginine - Alanine - Arginine - Alanine - Glycine - Glutamic Acid - Alanine - Alanine - Asparagine - Phenylalanine - Cysteine - Alanine - Leucine - Isoleucine - Leucine - Alanine - Tyrosine - Cysteine - Asparagine - Lysine - Threonine - Valine - Glycine - Glutamic Acid - Leucine - Glycine - Aspartic Acid - Valine - Arginine - Glutamic Acid - Threonine - Methionine - Serine - Tyrosine - Leucine - Phenylalanine - Glutamine - Histidine - Alanine - Asparagine - Leucine - Aspartic Acid - Serine - Cysteine - Lysine - Arginine - Valine - Leucine - Asparagine - Valine - Valine - Cysteine - Lysine - Threonine - Cysteine - Glycine - Glutamine - Glutamine - Glutamine - Threonine - Threonine - Leucine - Lysine - Glycine - Valine - Glutamic Acid - Alanine - Valine - Methionine - Tyrosine - Methionine - Glycine - Threonine - Leucine - Serine - Tyrosine - Glutamic Acid - Glutamine - Phenylalanine - Lysine - Lysine - Glycine - Valine - Glutamine - Isoleucine - Proline - Cysteine - Threonine - Cysteine - Glycine - Lysine - Glutamine - Alanine - Threonine - Lysine - Tyrosine - Leucine - Valine - Glutamine - Glutamine - Glutamic Acid - Serine - Proline - Phenylalanine - Valine - Methionine - Methionine - Serine - Alanine - Proline - Proline - Alanine - Glutamine - Tyrosine - Glutamic Acid - Leucine - Lysine - Histidine - Glycine - Threonine - Phenylalanine - Threonine - Cysteine - Alanine - Serine - Glutamic Acid - Tyrosine - Threonine - Glycine - Asparagine - Tyrosine - Glutamine - Cysteine - Glycine - Histidine - Tyrosine - Lysine - Histidine - Isoleucine - Threonine - Serine - Lysine - Glutamic Acid - Threonine - Leucine - Tyrosine - Cysteine - Isoleucine - Aspartic Acid - Glycine - Alanine - Leucine - Leucine - Threonine - Lysine - Serine - Serine - Glutamic Acid - Tyrosine - Lysine - Glycine - Proline - Isoleucine - Threonine - Aspartic Acid - Valine - Phenylalanine - Tyrosine - Lysine - Glutamic Acid - Asparagine - Serine - Tyrosine - Threonine - Threonine - Threonine - Isoleucine - Lysine - Proline - Valine - Threonine - Tyrosine - Lysine - Leucine - Aspartic Acid - Glycine - Valine - Valine - Cysteine - Threonine - Glutamic Acid - Isoleucine - Aspartic Acid - Proline - Lysine - Leucine - Aspartic Acid - Asparagine - Tyrosine - Tyrosine - Lysine - Lysine - Aspartic Acid - Asparagine - Serine - Tyrosine - Phenylalanine - Threonine - Glutamic Acid - Glutamine - Proline - Isoleucine - Aspartic Acid - Leucine - Valine - Proline - Asparagine - Glutamine - Proline - Tyrosine - Proline - Asparagine - Alanine - Serine - Phenylalanine - Aspartic Acid - Asparagine - Phenylalanine - Lysine - Phenylalanine - Valine - Cysteine - Aspartic Acid - Asparagine - Isoleucine - Lysine - Phenylalanine - Alanine - Aspartic Acid - Aspartic Acid - Leucine - Asparagine - Glutamine - Leucine - Threonine - Glycine - Tyrosine - Lysine - Lysine - Proline - Alanine - Serine - Arginine - Glutamic Acid - Leucine - Lysine - Valine - Threonine - Phenylalanine - Phenylalanine - Proline - Aspartic Acid - Leucine - Asparagine - Glycine - Aspartic Acid - Valine - Valine - Alanine - Isoleucine - Aspartic Acid - Tyrosine - Lysine - Histidine - Tyrosine - Threonine - Proline - Serine - Phenylalanine - Lysine - Lysine - Glycine - Alanine - Lysine - Leucine - Leucine - Histidine - Lysine - Proline - Isoleucine - Valine - Tryptophan - Histidine - Valine - Asparagine - Asparagine - Alanine - Threonine - Asparagine - Lysine - Alanine - Threonine - Tyrosine - Lysine - Proline - Asparagine - Threonine - Tryptophan - Cysteine - Isoleucine - Arginine - Cysteine - Leucine - Tryptophan - Serine - Threonine - Lysine - Proline - Valine - Glutamic Acid - Threonine - Serine - Asparagine - Serine - Phenylalanine - Aspartic Acid - Valine - Leucine - Lysine - Serine - Glutamic Acid - Aspartic Acid - Alanine - Glutamine - Glycine - Methionine - Aspartic Acid - Asparagine - Leucine - Alanine - Cysteine - Glutamic Acid - Aspartic Acid - Leucine - Lysine - Proline - Valine - Serine - Glutamic Acid - Glutamic Acid - Valine - Valine - Glutamic Acid - Asparagine - Proline - Threonine - Isoleucine - Glutamine - Lysine - Aspartic Acid - Valine - Leucine - Glutamic Acid - Cysteine - Asparagine - Valine - Lysine - Threonine - Threonine - Glutamic Acid - Valine - Valine - Glycine - Aspartic Acid - Isoleucine - Isoleucine - Leucine - Lysine - Proline - Alanine - Asparagine - Asparagine - Isoleucine - Lysine - Isoleucine - Threonine - Glutamic Acid - Glutamic Acid - Valine - Glycine - Histidine - Threonine - Aspartic Acid - Leucine - Methionine - Alanine - Alanine - Tyrosine - Valine - Aspartic Acid - Asparagine - Serine - Serine - Leucine - Threonine - Isoleucine - Lysine - Lysine - Proline - Asparagine - Glutamic Acid - Leucine - Serine - Arginine - Valine - Leucine - Glycine - Leucine - Lysine - Threonine - Leucine - Alanine - Threonine - Histidine - Glycine - Leucine - Alanine - Alanine - Valine - Asparagine - Serine - Valine - Proline - Tryptophan - Aspartic Acid - Threonine - Isoleucine - Alanine - Asparagine - Tyrosine - Alanine - Lysine - Proline - Phenylalanine - Leucine - Asparagine - Lysine - Valine - Valine - Serine - Threonine - Threonine - Threonine - Asparagine - Isoleucine - Valine - Threonine - Arginine - Cysteine - Leucine - Asparagine - Arginine - Valine - Cysteine - Threonine - Asparagine - Tyrosine - Methionine - Proline - Tyrosine - Phenylalanine - Phenylalanine - Threonine - Leucine - Leucine - Leucine - Glutamine - Leucine - Cysteine - Threonine - Phenylalanine - Threonine - Arginine - Serine - Threonine - Asparagine - Serine - Arginine - Isoleucine - Lysine - Alanine - Serine - Methionine - Proline - Threonine - Threonine - Isoleucine - Alanine - Lysine - Asparagine - Threonine - Valine - Lysine - Serine - Valine - Glycine - Lysine - Phenylalanine - Cysteine - Leucine - Glutamic Acid - Alanine - Serine - Phenylalanine - Asparagine - Tyrosine - Leucine - Lysine - Serine - Proline - Asparagine - Phenylalanine - Serine - Lysine - Leucine - Isoleucine - Asparagine - Isoleucine - Isoleucine - Isoleucine - Tryptophan - Phenylalanine - Leucine - Leucine - Leucine - Serine - Valine - Cysteine - Leucine - Glycine - Serine - Leucine - Isoleucine - Tyrosine - Serine - Threonine - Alanine - Alanine - Leucine - Glycine - Valine - Leucine - Methionine - Serine - Asparagine - Leucine - Glycine - Methionine - Proline - Serine - Tyrosine - Cysteine - Threonine - Glycine - Tyrosine - Arginine - Glutamic Acid - Glycine - Tyrosine - Leucine - Asparagine - Serine - Threonine - Asparagine - Valine - Threonine - Isoleucine - Alanine - Threonine - Tyrosine - Cysteine - Threonine - Glycine - Serine - Isoleucine - Proline - Cysteine - Serine - Valine - Cysteine - Leucine - Serine - Glycine - Leucine - Aspartic Acid - Serine - Leucine - Aspartic Acid - Threonine - Tyrosine - Proline - Serine - Leucine - Glutamic Acid - Threonine - Isoleucine - Glutamine - Isoleucine - Threonine - Isoleucine - Serine - Serine - Phenylalanine - Lysine - Tryptophan - Aspartic Acid - Leucine - Threonine - Alanine - Phenylalanine - Glycine - Leucine - Valine - Alanine - Glutamic Acid - Tryptophan - Phenylalanine - Leucine - Alanine - Tyrosine - Isoleucine - Leucine - Phenylalanine - Threonine - Arginine - Phenylalanine - Phenylalanine - Tyrosine - Valine - Leucine - Glycine - Leucine - Alanine - Alanine - Isoleucine - Methionine - Glutamine - Leucine - Phenylalanine - Phenylalanine - Serine - Tyrosine - Phenylalanine - Alanine - Valine - Histidine - Phenylalanine - Isoleucine - Serine - Asparagine - Serine - Tryptophan - Leucine - Methionine - Tryptophan - Leucine - Isoleucine - Isoleucine - Asparagine - Leucine - Valine - Glutamine - Methionine - Alanine - Proline - Isoleucine - Serine - Alanine - Methionine - Valine - Arginine - Methionine - Tyrosine - Isoleucine - Phenylalanine - Phenylalanine - Alanine - Serine - Phenylalanine - Tyrosine - Tyrosine - Valine - Tryptophan - Lysine - Serine - Tyrosine - Valine - Histidine - Valine - Valine - Aspartic Acid - Glycine - Cysteine - Asparagine - Serine - Serine - Threonine - Cysteine - Methionine - Methionine - Cysteine - Tyrosine - Lysine - Arginine - Asparagine - Arginine - Alanine - Threonine - Arginine - Valine - Glutamic Acid - Cysteine - Threonine - Threonine - Isoleucine - Valine - Asparagine - Glycine - Valine - Arginine - Arginine - Serine - Phenylalanine - Tyrosine - Valine - Tyrosine - Alanine - Asparagine - Glycine - Glycine - Lysine - Glycine - Phenylalanine - Cysteine - Lysine - Leucine - Histidine - Asparagine - Tryptophan - Asparagine - Cysteine - Valine - Asparagine - Cysteine - Aspartic Acid - Threonine - Phenylalanine - Cysteine - Alanine - Glycine - Serine - Threonine - Phenylalanine - Isoleucine - Serine - Aspartic Acid - Glutamic Acid - Valine - Alanine - Arginine - Aspartic Acid - Leucine - Serine - Leucine - Glutamine - Phenylalanine - Lysine - Arginine - Proline - Isoleucine - Asparagine - Proline - Threonine - Aspartic Acid - Glutamine - Serine - Serine - Tyrosine - Isoleucine - Valine - Aspartic Acid - Serine - Valine - Threonine - Valine - Lysine - Asparagine - Glycine - Serine - Isoleucine - Histidine - Leucine - Tyrosine - Phenylalanine - Aspartic Acid - Lysine - Alanine - Glycine - Glutamine - Lysine - Threonine - Tyrosine - Glutamic Acid - Arginine - Histidine - Serine - Leucine - Serine - Histidine - Phenylalanine - Valine - Asparagine - Leucine - Aspartic Acid - Asparagine - Leucine - Arginine - Alanine - Asparagine - Asparagine - Threonine - Lysine - Glycine - Serine - Leucine - Proline - Isoleucine - Asparagine - Valine - Isoleucine - Valine - Phenylalanine - Aspartic Acid - Glycine - Lysine - Serine - Lysine - Cysteine - Glutamic Acid - Glutamic Acid - Serine - Serine - Alanine - Lysine - Serine - Alanine - Serine - Valine - Tyrosine - Tyrosine - Serine - Glutamine - Leucine - Methionine - Cysteine - Glutamine - Proline - Isoleucine - Leucine - Leucine - Leucine - Aspartic Acid - Glutamine - Alanine - Leucine - Valine - Serine - Aspartic Acid - Valine - Glycine - Aspartic Acid - Serine - Alanine - Glutamic Acid - Valine - Alanine - Valine - Lysine - Methionine - Phenylalanine - Aspartic Acid - Alanine - Tyrosine - Valine - Asparagine - Threonine - Phenylalanine - Serine - Serine - Threonine - Phenylalanine - Asparagine - Valine - Proline - Methionine - Glutamic Acid - Lysine - Leucine - Lysine - Threonine - Leucine - Valine - Alanine - Threonine - Alanine - Glutamic Acid - Alanine - Glutamic Acid - Leucine - Alanine - Lysine - Asparagine - Valine - Serine - Leucine - Aspartic Acid - Asparagine - Valine - Leucine - Serine - Threonine - Phenylalanine - Isoleucine - Serine - Alanine - Alanine - Arginine - Glutamine - Glycine - Phenylalanine - Valine - Aspartic Acid - Serine - Aspartic Acid - Valine - Glutamic Acid - Threonine - Lysine - Aspartic Acid - Valine - Valine - Glutamic Acid - Cysteine - Leucine - Lysine - Leucine - Serine - Histidine - Glutamine - Serine - Aspartic Acid - Isoleucine - Glutamic Acid - Valine - Threonine - Glycine - Aspartic Acid - Serine - Cysteine - Asparagine - Asparagine - Tyrosine - Methionine - Leucine - Threonine - Tyrosine - Asparagine - Lysine - Valine - Glutamic Acid - Asparagine - Methionine - Threonine - Proline - Arginine - Aspartic Acid - Leucine - Glycine - Alanine - Cysteine - Isoleucine - Aspartic Acid - Cysteine - Serine - Alanine - Arginine - Histidine - Isoleucine - Asparagine - Alanine - Glutamine - Valine - Alanine - Lysine - Serine - Histidine - Asparagine - Isoleucine - Threonine - Leucine - Isoleucine - Tryptophan - Asparagine - Valine - Lysine - Aspartic Acid - Phenylalanine - Methionine - Serine - Leucine - Serine - Glutamic Acid - Glutamine - Leucine - Arginine - Lysine - Glutamine - Isoleucine - Arginine - Serine - Alanine - Alanine - Lysine - Lysine - Asparagine - Asparagine - Leucine - Proline - Phenylalanine - Lysine - Leucine - Threonine - Cysteine - Alanine - Threonine - Threonine - Arginine - Glutamine - Valine - Valine - Asparagine - Valine - Valine - Threonine - Threonine - Lysine - Isoleucine - Alanine - Leucine - Lysine - Glycine - Glycine - Lysine - Isoleucine - Valine - Asparagine - Asparagine - Tryptophan - Leucine - Lysine - Glutamine - Leucine - Isoleucine - Lysine - Valine - Threonine - Leucine - Valine - Phenylalanine - Leucine - Phenylalanine - Valine - Alanine - Alanine - Isoleucine - Phenylalanine - Tyrosine - Leucine - Isoleucine - Threonine - Proline - Valine - Histidine - Valine - Methionine - Serine - Lysine - Histidine - Threonine - Aspartic Acid - Phenylalanine - Serine - Serine - Glutamic Acid - Isoleucine - Isoleucine - Glycine - Tyrosine - Lysine - Alanine - Isoleucine - Aspartic Acid - Glycine - Glycine - Valine - Threonine - Arginine - Aspartic Acid - Isoleucine - Alanine - Serine - Threonine - Aspartic Acid - Threonine - Cysteine - Phenylalanine - Alanine - Asparagine - Lysine - Histidine - Alanine - Aspartic Acid - Phenylalanine - Aspartic Acid - Threonine - Tryptophan - Phenylalanine - Serine - Glutamine - Arginine - Glycine - Glycine - Serine - Tyrosine - Threonine - Asparagine - Aspartic Acid - Lysine - Alanine - Cysteine - Proline - Leucine - Isoleucine - Alanine - Alanine - Valine - Isoleucine - Threonine - Arginine - Glutamic Acid - Valine - Glycine - Phenylalanine - Valine - Valine - Proline - Glycine - Leucine - Proline - Glycine - Threonine - Isoleucine - Leucine - Arginine - Threonine - Threonine - Asparagine - Glycine - Aspartic Acid - Phenylalanine - Leucine - Histidine - Phenylalanine - Leucine - Proline - Arginine - Valine - Phenylalanine - Serine - Alanine - Valine - Glycine - Asparagine - Isoleucine - Cysteine - Tyrosine - Threonine - Proline - Serine - Lysine - Leucine - Isoleucine - Glutamic Acid - Tyrosine - Threonine - Aspartic Acid - Phenylalanine - Alanine - Threonine - Serine - Alanine - Cysteine - Valine - Leucine - Alanine - Alanine - Glutamic Acid - Cysteine - Threonine - Isoleucine - Phenylalanine - Lysine - Aspartic Acid - Alanine - Serine - Glycine - Lysine - Proline - Valine - Proline - Tyrosine - Cysteine - Tyrosine - Aspartic Acid - Threonine - Asparagine - Valine - Leucine - Glutamic Acid - Glycine - Serine - Valine - Alanine - Tyrosine - Glutamic Acid - Serine - Leucine - Arginine - Proline - Aspartic Acid - Threonine - Arginine - Tyrosine - Valine - Leucine - Methionine - Aspartic Acid - Glycine - Serine - Isoleucine - Isoleucine - Glutamine - Phenylalanine - Proline - Asparagine - Threonine - Tyrosine - Leucine - Glutamic Acid - Glycine - Serine - Valine - Arginine - Valine - Valine - Threonine - Threonine - Phenylalanine - Aspartic Acid - Serine - Glutamic Acid - Tyrosine - Cysteine - Arginine - Histidine - Glycine - Threonine - Cysteine - Glutamic Acid - Arginine - Serine - Glutamic Acid - Alanine - Glycine - Valine - Cysteine - Valine - Serine - Threonine - Serine - Glycine - Arginine - Tryptophan - Valine - Leucine - Asparagine - Asparagine - Aspartic Acid - Tyrosine - Tyrosine - Arginine - Serine - Leucine - Proline - Glycine - Valine - Phenylalanine - Cysteine - Glycine - Valine - Aspartic Acid - Alanine - Valine - Asparagine - Leucine - Leucine - Threonine - Asparagine - Methionine - Phenylalanine - Threonine - Proline - Leucine - Isoleucine - Glutamine - Proline - Isoleucine - Glycine - Alanine - Leucine - Aspartic Acid - Isoleucine - Serine - Alanine - Serine - Isoleucine - Valine - Alanine - Glycine - Glycine - Isoleucine - Valine - Alanine - Isoleucine - Valine - Valine - Threonine - Cysteine - Leucine - Alanine - Tyrosine - Tyrosine - Phenylalanine - Methionine - Arginine - Phenylalanine - Arginine - Arginine - Alanine - Phenylalanine - Glycine - Glutamic Acid - Tyrosine - Serine - Histidine - Valine - Valine - Alanine - Phenylalanine - Asparagine - Threonine - Leucine - Leucine - Phenylalanine - Leucine - Methionine - Serine - Phenylalanine - Threonine - Valine - Leucine - Cysteine - Leucine - Threonine - Proline - Valine - Tyrosine - Serine - Phenylalanine - Leucine - Proline - Glycine - Valine - Tyrosine - Serine - Valine - Isoleucine - Tyrosine - Leucine - Tyrosine - Leucine - Threonine - Phenylalanine - Tyrosine - Leucine - Threonine - Asparagine - Aspartic Acid - Valine - Serine - Phenylalanine - Leucine - Alanine - Histidine - Isoleucine - Glutamine - Tryptophan - Methionine - Valine - Methionine - Phenylalanine - Threonine - Proline - Leucine - Valine - Proline - Phenylalanine - Tryptophan - Isoleucine - Threonine - Isoleucine - Alanine - Tyrosine - Isoleucine - Isoleucine - Cysteine - Isoleucine - Serine - Threonine - Lysine - Histidine - Phenylalanine - Tyrosine - Tryptophan - Phenylalanine - Phenylalanine - Serine - Asparagine - Tyrosine - Leucine - Lysine - Arginine - Arginine - Valine - Valine - Phenylalanine - Asparagine - Glycine - Valine - Serine - Phenylalanine - Serine - Threonine - Phenylalanine - Glutamic Acid - Glutamic Acid - Alanine - Alanine - Leucine - Cysteine - Threonine - Phenylalanine - Leucine - Leucine - Asparagine - Lysine - Glutamic Acid - Methionine - Tyrosine - Leucine - Lysine - Leucine - Arginine - Serine - Aspartic Acid - Valine - Leucine - Leucine - Proline - Leucine - Threonine - Glutamine - Tyrosine - Asparagine - Arginine - Tyrosine - Leucine - Alanine - Leucine - Tyrosine - Asparagine - Lysine - Tyrosine - Lysine - Tyrosine - Phenylalanine - Serine - Glycine - Alanine - Methionine - Aspartic Acid - Threonine - Threonine - Serine - Tyrosine - Arginine - Glutamic Acid - Alanine - Alanine - Cysteine - Cysteine - Histidine - Leucine - Alanine - Lysine - Alanine - Leucine - Asparagine - Aspartic Acid - Phenylalanine - Serine - Asparagine - Serine - Glycine - Serine - Aspartic Acid - Valine - Leucine - Tyrosine - Glutamine - Proline - Proline - Glutamine - Isoleucine - Serine - Isoleucine - Threonine - Serine - Alanine - Valine - Leucine - Glutamine - Serine - Glycine - Phenylalanine - Arginine - Lysine - Methionine - Alanine - Phenylalanine - Proline - Serine - Glycine - Lysine - Valine - Glutamic Acid - Glycine - Cysteine - Methionine - Valine - Glutamine - Valine - Threonine - Cysteine - Glycine - Threonine - Threonine - Threonine - Leucine - Asparagine - Glycine - Leucine - Tryptophan - Leucine - Aspartic Acid - Aspartic Acid - Valine - Valine - Tyrosine - Cysteine - Proline - Arginine - Histidine - Valine - Isoleucine - Cysteine - Threonine - Serine - Glutamic Acid - Aspartic Acid - Methionine - Leucine - Asparagine - Proline - Asparagine - Tyrosine - Glutamic Acid - Aspartic Acid - Leucine - Leucine - Isoleucine - Arginine - Lysine - Serine - Asparagine - Histidine - Asparagine - Phenylalanine - Leucine - Valine - Glutamine - Alanine - Glycine - Asparagine - Valine - Glutamine - Leucine - Arginine - Valine - Isoleucine - Glycine - Histidine - Serine - Methionine - Glutamine - Asparagine - Cysteine - Valine - Leucine - Lysine - Leucine - Lysine - Valine - Aspartic Acid - Threonine - Alanine - Asparagine - Proline - Lysine - Threonine - Proline - Lysine - Tyrosine - Lysine - Phenylalanine - Valine - Arginine - Isoleucine - Glutamine - Proline - Glycine - Glutamine - Threonine - Phenylalanine - Serine - Valine - Leucine - Alanine - Cysteine - Tyrosine - Asparagine - Glycine - Serine - Proline - Serine - Glycine - Valine - Tyrosine - Glutamine - Cysteine - Alanine - Methionine - Arginine - Histidine - Asparagine - Phenylalanine - Threonine - Isoleucine - Lysine - Glycine - Serine - Phenylalanine - Leucine - Asparagine - Glycine - Serine - Cysteine - Glycine - Serine - Valine - Glycine - Phenylalanine - Asparagine - Isoleucine - Aspartic Acid - Tyrosine - Aspartic Acid - Cysteine - Valine - Serine - Phenylalanine - Cysteine - Tyrosine - Methionine - Histidine - Histidine - Methionine - Glutamic Acid - Leucine - Proline - Threonine - Glycine - Valine - Histidine - Alanine - Glycine - Threonine - Aspartic Acid - Leucine - Glutamic Acid - Glycine - Asparagine - Phenylalanine - Tyrosine - Glycine - Proline - Phenylalanine - Valine - Aspartic Acid - Arginine - Glutamine - Threonine - Alanine - Glutamine - Alanine - Alanine - Glycine - Threonine - Aspartic Acid - Threonine - Threonine - Isoleucine - Threonine - Valine - Asparagine - Valine - Leucine - Alanine - Tryptophan - Leucine - Tyrosine - Alanine - Alanine - Valine - Isoleucine - Asparagine - Glycine - Aspartic Acid - Arginine - Tryptophan - Phenylalanine - Leucine - Asparagine - Arginine - Phenylalanine - Threonine - Threonine - Threonine - Leucine - Asparagine - Aspartic Acid - Phenylalanine - Asparagine - Leucine - Valine - Alanine - Methionine - Lysine - Tyrosine - Asparagine - Tyrosine - Glutamic Acid - Proline - Leucine - Threonine - Glutamine - Aspartic Acid - Histidine - Valine - Aspartic Acid - Isoleucine - Leucine - Glycine - Proline - Leucine - Serine - Alanine - Glutamine - Threonine - Glycine - Isoleucine - Alanine - Valine - Leucine - Aspartic Acid - Methionine - Cysteine - Alanine - Serine - Leucine - Lysine - Glutamic Acid - Leucine - Leucine - Glutamine - Asparagine - Glycine - Methionine - Asparagine - Glycine - Arginine - Threonine - Isoleucine - Leucine - Glycine - Serine - Alanine - Leucine - Leucine - Glutamic Acid - Aspartic Acid - Glutamic Acid - Phenylalanine - Threonine - Proline - Phenylalanine - Aspartic Acid - Valine - Valine - Arginine - Glutamine - Cysteine - Serine - Glycine - Valine - Threonine - Phenylalanine - Glutamine - Serine - Alanine - Valine - Lysine - Arginine - Threonine - Isoleucine - Lysine - Glycine - Threonine - Histidine - Histidine - Tryptophan - Leucine - Leucine - Leucine - Threonine - Isoleucine - Leucine - Threonine - Serine - Leucine - Leucine - Valine - Leucine - Valine - Glutamine - Serine - Threonine - Glutamine - Tryptophan - Serine - Leucine - Phenylalanine - Phenylalanine - Phenylalanine - Leucine - Tyrosine - Glutamic Acid - Asparagine - Alanine - Phenylalanine - Leucine - Proline - Phenylalanine - Alanine - Methionine - Glycine - Isoleucine - Isoleucine - Alanine - Methionine - Serine - Alanine - Phenylalanine - Alanine - Methionine - Methionine - Phenylalanine - Valine - Lysine - Histidine - Lysine - Histidine - Alanine - Phenylalanine - Leucine - Cysteine - Leucine - Phenylalanine - Leucine - Leucine - Proline - Serine - Leucine - Alanine - Threonine - Valine - Alanine - Tyrosine - Phenylalanine - Asparagine - Methionine - Valine - Tyrosine - Methionine - Proline - Alanine - Serine - Tryptophan - Valine - Methionine - Arginine - Isoleucine - Methionine - Threonine - Tryptophan - Leucine - Aspartic Acid - Methionine - Valine - Aspartic Acid - Threonine - Serine - Phenylalanine - Lysine - Leucine - Lysine - Aspartic Acid - Cysteine - Valine - Methionine - Tyrosine - Alanine - Serine - Alanine - Valine - Valine - Leucine - Leucine - Isoleucine - Leucine - Methionine - Threonine - Alanine - Arginine - Threonine - Valine - Tyrosine - Aspartic Acid - Aspartic Acid - Glycine - Alanine - Arginine - Arginine - Valine - Tryptophan - Threonine - Leucine - Methionine - Asparagine - Valine - Leucine - Threonine - Leucine - Valine - Tyrosine - Lysine - Valine - Tyrosine - Tyrosine - Glycine - Asparagine - Alanine - Leucine - Aspartic Acid - Glutamine - Alanine - Isoleucine - Serine - Methionine - Tryptophan - Alanine - Leucine - Isoleucine - Isoleucine - Serine - Valine - Threonine - Serine - Asparagine - Tyrosine - Serine - Glycine - Valine - Valine - Threonine - Threonine - Valine - Methionine - Phenylalanine - Leucine - Alanine - Arginine - Glycine - Valine - Valine - Phenylalanine - Methionine - Cysteine - Valine - Glutamic Acid - Tyrosine - Cysteine - Proline - Isoleucine - Phenylalanine - Phenylalanine - Isoleucine - Threonine - Glycine - Asparagine - Threonine - Leucine - Glutamine - Cysteine - Isoleucine - Methionine - Leucine - Valine - Tyrosine - Cysteine - Phenylalanine - Leucine - Glycine - Tyrosine - Phenylalanine - Cysteine - Threonine - Cysteine - Tyrosine - Phenylalanine - Glycine - Leucine - Phenylalanine - Cysteine - Leucine - Leucine - Asparagine - Arginine - Tyrosine - Phenylalanine - Arginine - Leucine - Threonine - Leucine - Glycine - Valine - Tyrosine - Aspartic Acid - Tyrosine - Leucine - Valine - Serine - Threonine - Glutamine - Glutamic Acid - Phenylalanine - Arginine - Tyrosine - Methionine - Asparagine - Serine - Glutamine - Glycine - Leucine - Leucine - Proline - Proline - Lysine - Asparagine - Serine - Isoleucine - Aspartic Acid - Alanine - Phenylalanine - Lysine - Leucine - Asparagine - Isoleucine - Lysine - Leucine - Leucine - Glycine - Valine - Glycine - Glycine - Lysine - Proline - Cysteine - Isoleucine - Lysine - Valine - Alanine - Threonine - Valine - Glutamine - Serine - Lysine - Methionine - Serine - Aspartic Acid - Valine - Lysine - Cysteine - Threonine - Serine - Valine - Valine - Leucine - Leucine - Serine - Valine - Leucine - Glutamine - Glutamine - Leucine - Arginine - Valine - Glutamic Acid - Serine - Serine - Serine - Lysine - Leucine - Tryptophan - Alanine - Glutamine - Cysteine - Valine - Glutamine - Leucine - Histidine - Asparagine - Aspartic Acid - Isoleucine - Leucine - Leucine - Alanine - Lysine - Aspartic Acid - Threonine - Threonine - Glutamic Acid - Alanine - Phenylalanine - Glutamic Acid - Lysine - Methionine - Valine - Serine - Leucine - Leucine - Serine - Valine - Leucine - Leucine - Serine - Methionine - Glutamine - Glycine - Alanine - Valine - Aspartic Acid - Isoleucine - Asparagine - Lysine - Leucine - Cysteine - Glutamic Acid - Glutamic Acid - Methionine - Leucine - Aspartic Acid - Asparagine - Arginine - Alanine - Threonine - Leucine - Glutamine - Alanine - Isoleucine - Alanine - Serine - Glutamic Acid - Phenylalanine - Serine - Serine - Leucine - Proline - Serine - Tyrosine - Alanine - Alanine - Phenylalanine - Alanine - Threonine - Alanine - Glutamine - Glutamic Acid - Alanine - Tyrosine - Glutamic Acid - Glutamine - Alanine - Valine - Alanine - Asparagine - Glycine - Aspartic Acid - Serine - Glutamic Acid - Valine - Valine - Leucine - Lysine - Lysine - Leucine - Lysine - Lysine - Serine - Leucine - Asparagine - Valine - Alanine - Lysine - Serine - Glutamic Acid - Phenylalanine - Aspartic Acid - Arginine - Aspartic Acid - Alanine - Alanine - Methionine - Glutamine - Arginine - Lysine - Leucine - Glutamic Acid - Lysine - Methionine - Alanine - Aspartic Acid - Glutamine - Alanine - Methionine - Threonine - Glutamine - Methionine - Tyrosine - Lysine - Glutamine - Alanine - Arginine - Serine - Glutamic Acid - Aspartic Acid - Lysine - Arginine - Alanine - Lysine - Valine - Threonine - Serine - Alanine - Methionine - Glutamine - Threonine - Methionine - Leucine - Phenylalanine - Threonine - Methionine - Leucine - Arginine - Lysine - Leucine - Aspartic Acid - Asparagine - Aspartic Acid - Alanine - Leucine - Asparagine - Asparagine - Isoleucine - Isoleucine - Asparagine - Asparagine - Alanine - Arginine - Aspartic Acid - Glycine - Cysteine - Valine - Proline - Leucine - Asparagine - Isoleucine - Isoleucine - Proline - Leucine - Threonine - Threonine - Alanine - Alanine - Lysine - Leucine - Methionine - Valine - Valine - Isoleucine - Proline - Aspartic Acid - Tyrosine - Asparagine - Threonine - Tyrosine - Lysine - Asparagine - Threonine - Cysteine - Aspartic Acid - Glycine - Threonine - Threonine - Phenylalanine - Threonine - Tyrosine - Alanine - Serine - Alanine - Leucine - Tryptophan - Glutamic Acid - Isoleucine - Glutamine - Glutamine - Valine - Valine - Aspartic Acid - Alanine - Aspartic Acid - Serine - Lysine - Isoleucine - Valine - Glutamine - Leucine - Serine - Glutamic Acid - Isoleucine - Serine - Methionine - Aspartic Acid - Asparagine - Serine - Proline - Asparagine - Leucine - Alanine - Tryptophan - Proline - Leucine - Isoleucine - Valine - Threonine - Alanine - Leucine - Arginine - Alanine - Asparagine - Serine - Alanine - Valine - Lysine - Leucine - Glutamine - Asparagine - Asparagine - Glutamic Acid - Leucine - Serine - Proline - Valine - Alanine - Leucine - Arginine - Glutamine - Methionine - Serine - Cysteine - Alanine - Alanine - Glycine - Threonine - Threonine - Glutamine - Threonine - Alanine - Cysteine - Threonine - Aspartic Acid - Aspartic Acid - Asparagine - Alanine - Leucine - Alanine - Tyrosine - Tyrosine - Asparagine - Threonine - Threonine - Lysine - Glycine - Glycine - Arginine - Phenylalanine - Valine - Leucine - Alanine - Leucine - Leucine - Serine - Aspartic Acid - Leucine - Glutamine - Aspartic Acid - Leucine - Lysine - Tryptophan - Alanine - Arginine - Phenylalanine - Proline - Lysine - Serine - Aspartic Acid - Glycine - Threonine - Glycine - Threonine - Isoleucine - Tyrosine - Threonine - Glutamic Acid - Leucine - Glutamic Acid - Proline - Proline - Cysteine - Arginine - Phenylalanine - Valine - Threonine - Aspartic Acid - Threonine - Proline - Lysine - Glycine - Proline - Lysine - Valine - Lysine - Tyrosine - Leucine - Tyrosine - Phenylalanine - Isoleucine - Lysine - Glycine - Leucine - Asparagine - Asparagine - Leucine - Asparagine - Arginine - Glycine - Methionine - Valine - Leucine - Glycine - Serine - Leucine - Alanine - Alanine - Threonine - Valine - Arginine - Leucine - Glutamine - Alanine - Glycine - Asparagine - Alanine - Threonine - Glutamic Acid - Valine - Proline - Alanine - Asparagine - Serine - Threonine - Valine - Leucine - Serine - Phenylalanine - Cysteine - Alanine - Phenylalanine - Alanine - Valine - Aspartic Acid - Alanine - Alanine - Lysine - Alanine - Tyrosine - Lysine - Aspartic Acid - Tyrosine - Leucine - Alanine - Serine - Glycine - Glycine - Glutamine - Proline - Isoleucine - Threonine - Asparagine - Cysteine - Valine - Lysine - Methionine - Leucine - Cysteine - Threonine - Histidine - Threonine - Glycine - Threonine - Glycine - Glutamine - Alanine - Isoleucine - Threonine - Valine - Threonine - Proline - Glutamic Acid - Alanine - Asparagine - Methionine - Aspartic Acid - Glutamine - Glutamic Acid - Serine - Phenylalanine - Glycine - Glycine - Alanine - Serine - Cysteine - Cysteine - Leucine - Tyrosine - Cysteine - Arginine - Cysteine - Histidine - Isoleucine - Aspartic Acid - Histidine - Proline - Asparagine - Proline - Lysine - Glycine - Phenylalanine - Cysteine - Aspartic Acid - Leucine - Lysine - Glycine - Lysine - Tyrosine - Valine - Glutamine - Isoleucine - Proline - Threonine - Threonine - Cysteine - Alanine - Asparagine - Aspartic Acid - Proline - Valine - Glycine - Phenylalanine - Threonine - Leucine - Lysine - Asparagine - Threonine - Valine - Cysteine - Threonine - Valine - Cysteine - Glycine - Methionine - Tryptophan - Lysine - Glycine - Tyrosine - Glycine - Cysteine - Serine - Cysteine - Aspartic Acid - Glutamine - Leucine - Arginine - Glutamic Acid - Proline - Methionine - Leucine - Glutamine - Serine - Alanine - Aspartic Acid - Alanine - Glutamine - Serine - Phenylalanine - Leucine
+
+ Valine - Glutamine - Proline - Valine - Leucine - Histidine - Arginine - Alanine - Alanine - Glutamine - Alanine - Leucine - Valine - Leucine - Methionine - Serine - Tyrosine - Threonine - Glycine - Leucine - Leucine - Threonine - Serine - Threonine - Methionine - Isoleucine - Lysine
+
+ Leucine - Valine - Leucine - Leucine - Asparagine - Serine
+
+  Lysine - Leucine - Isoleucine - Valine - Valine - Alanine - Serine - Lysine - Lysine - Arginine - Threonine - Lysine - Methionine - Threonine - Isoleucine
+
+  Leucine - Isoleucine - Leucine - Threonine - Leucine 
+
+  Leucine - Arginine - Aspartic Acid - Threonine - Leucine - Serine - Leucine - Threonine - Threonine - Asparagine - Methionine - Lysine - Lysine - Glutamine - Phenylalanine - Isoleucine - Isoleucine - Tyrosine - Leucine - Arginine - Isoleucine - Valine - Glutamine - Leucine - Leucine - Leucine - Asparagine - Methionine - Threonine - Serine - Leucine - Serine - Leucine - Glutamic Acid
+
+  Threonine - Valine - Threonine - Tryptophan - Tyrosine - Histidine - Isoleucine - Tyrosine - Histidine - Valine - Asparagine - Valine - Leucine - Leucine - Asparagine - Threonine - Glutamine - Tryptophan - Glutamine - Threonine - Serine - Serine - Methionine - Leucine  
+
+  Glycine - Isoleucine - Leucine - Methionine - Lysine - Valine - Isoleucine - Valine - Threonine - Histidine 
+
+  Lysine - Lysine - Tyrosine - Leucine - Serine - Histidine - Threonine - Isoleucine - Valine - Valine - Methionine - Methionine - Isoleucine - Isoleucine - Serine - Isoleucine - Lysine - Arginine - Threonine - Glycine - Methionine - Isoleucine - Leucine 
+
+  Lysine - Threonine - Glutamine - Isoleucine - Tyrosine - Tyrosine - Alanine - Tyrosine - Threonine - Proline - Threonine 
+
+  Valine - Asparagine - Valine - Tyrosine - Alanine - Lysine - Leucine - Cysteine  
+
+
+
+
+Lysine - Glutamine - Tyrosine - Asparagine - Serine - Valine - Methionine - Proline - Cysteine - Glutamic Acid - Methionine - Leucine - Valine - Leucine - Leucine - Valine - Tyrosine
+
+Histidine
+
+Isoleucine - Isoleucine - Lysine - Isoleucine - Serine - Methionine - Valine - Threonine - Glycine - Methionine - Isoleucine - Serine - Valine - Isoleucine - Serine - Tyrosine - Lysine - Proline - Arginine - Glutamine - Valine - Valine - Glutamic Acid - Phenylalanine - Leucine - Leucine
+
+Isoleucine - Leucine - Isoleucine - Isoleucine - Histidine - Cysteine
+
+Cysteine - Leucine - Tyrosine
+
+Proline
+
+Proline - Glycine - Leucine
+
+Leucine - Glutamine - Serine - Histidine - Methionine - Leucine - Threonine - Leucine - Threonine
+
+Glutamine - Serine - Leucine - Threonine - Leucine - Serine - Glycine - Isoleucine - Cysteine
+
+Asparagine - Methionine - Threonine - Serine - Arginine - Lysine - Arginine - Glycine
+
+Asparagine - Serine - Leucine - Threonine - Valine - Isoleucine - Leucine - Asparagine - Isoleucine - Glycine - Isoleucine - Arginine - Histidine - Threonine - Threonine - Glutamine - Isoleucine - Valine - Leucine - Threonine - Valine - Tryptophan - Methionine - Threonine - Aspartic Acid - Alanine - Phenylalanine - Cysteine - Isoleucine - Valine - Glutamine - Threonine - Leucine - Methionine - Phenylalanine - Tyrosine - Serine - Leucine - Glutamine - Cysteine - Serine - Histidine - Leucine - Glutamine - Valine - Leucine - Aspartic Acid - Histidine
+
+" - Glutamic Acid - Lysine - Tyrosine - Leucine - Leucine - Methionine - Valine - Phenylalanine - Histidine - Leucine
+
+Phenylalanine - Glutamine - Leucine - Aspartic Acid - Threonine - Threonine - Serine - Glutamic Acid - Serine
+
+Valine - Leucine - Tyrosine - Isoleucine - Isoleucine - Arginine - Methionine
+
+Threonine - Tyrosine - Isoleucine - Alanine - Leucine - Aspartic Acid - Leucine - Valine - Leucine - Arginine - Asparagine - Tyrosine - Leucine - Cysteine - Methionine - Leucine - Leucine - Threonine - Leucine - Leucine - Cysteine - Threonine - Leucine - Leucine - Leucine - Valine - Isoleucine - Tyrosine - Tyrosine
+
+Isoleucine - Asparagine - Alanine - Leucine - Arginine - Alanine - Phenylalanine - Glutamine
+
+Leucine - Histidine - Leucine - Leucine - Threonine - Methionine - Leucine - Leucine - Phenylalanine - Lysine - Leucine - Serine - Asparagine - Proline - Valine - Isoleucine - Leucine - Threonine - Lysine - Threonine - Serine - Methionine - Threonine - Leucine - Leucine - Cysteine - Leucine - Arginine - Valine - Serine - Leucine - Arginine - Lysine - Glutamic Acid - Valine - Leucine - Leucine - Asparagine
+
+Asparagine - Threonine - Serine - Serine - Leucine - Leucine - Arginine - Methionine - Valine - Methionine - Leucine - Leucine - Serine - Alanine - Isoleucine - Methionine - Threonine - Threonine - Isoleucine - Valine - Isoleucine - Isoleucine - Tyrosine - Glutamine - Glutamine - Cysteine - Valine - Isoleucine - Serine - Aspartic Acid - Asparagine - Tyrosine - Tyrosine - Leucine
+
+Leucine - Lysine - Leucine - Leucine - Isoleucine - Serine - Threonine - Leucine - Isoleucine - Valine - Threonine - Methionine - Valine - Alanine - Valine - Leucine - Methionine - Leucine - Threonine - Lysine - Serine - Serine - Serine - Threonine - Threonine
+
+Threonine - Asparagine - Glutamine - Leucine - Valine - Phenylalanine - Histidine - Leucine - Isoleucine - Asparagine - Glycine - Valine - Arginine - Leucine - Aspartic Acid - Phenylalanine - Isoleucine - Methionine - Isoleucine - Glutamine
+
+Valine - Methionine - Arginine - Isoleucine - Lysine - Methionine - Histidine - Phenylalanine - Serine - Histidine - Isoleucine - Glutamine - Asparagine - Valine - Methionine - Serine - Serine - Leucine - Leucine
+
+Leucine - Lysine
+
+Isoleucine - Leucine - Serine - Methionine - Proline - Leucine - Valine - Glutamine - Arginine - Isoleucine - Glutamic Acid - Leucine - Alanine - Proline
+
+Leucine - Valine - Serine - Leucine - Serine - Valine - Valine - Leucine
+
+Proline - Isoleucine - Aspartic Acid - Serine - Phenylalanine - Isoleucine - Lysine - Asparagine - Tyrosine
+
+Asparagine - Glutamine 
+
+Proline - Proline - Leucine - Glutamic Acid - Glutamic Acid - Leucine - Leucine
+
+Leucine - Glutamic Acid - Glutamine - Alanine - Asparagine - Serine - Methionine - Valine - Valine - Glycine - Threonine - Isoleucine - Cysteine
+
+Lysine - Leucine - Phenylalanine - Isoleucine - Valine - Methionine
+
+Lysine - Threonine - Leucine - Threonine - Leucine - Tryptophan - Valine - Glycine - Isoleucine - Isoleucine - Leucine - Asparagine - Valine - Isoleucine - Glutamic Acid - Proline - Cysteine - Leucine - Threonine - Cysteine - Leucine - Glutamic Acid - Leucine - Tryptophan - Proline - Histidine - Leucine - Phenylalanine - Leucine - Leucine - Alanine - Asparagine - Isoleucine - Glutamine - Arginine - Valine - Valine - Alanine - Cysteine - Histidine - Threonine - Valine - Serine - Isoleucine - Aspartic Acid
+
+Leucine - Methionine - Serine - Valine - Leucine - Lysine - Tyrosine
+
+Valine - Lysine - Tryptophan - Serine - Cysteine - Valine - Alanine - Valine - Histidine - Tyrosine - Methionine - Leucine - Asparagine - Glutamine - Valine - Glutamic Acid - Proline - Histidine - Glutamine - Glutamic Acid - Methionine - Proline - Glutamine - Leucine - Leucine - Methionine - Leucine - Isoleucine - Valine - Phenylalanine - Leucine - Threonine - Phenylalanine - Valine - Lysine - Leucine - Serine - Arginine - Proline - Methionine - Leucine - Methionine - Histidine - Phenylalanine - Tyrosine - Leucine - Leucine - Methionine - Valine - Threonine - Lysine - Leucine - Proline - Isoleucine - Serine - Methionine - Serine - Alanine - Isoleucine - Tyrosine - Asparagine - Threonine - Aspartic Acid - Phenylalanine - Methionine - Serine - Valine - Serine - Isoleucine - Glutamic Acid - Isoleucine - Glutamic Acid - Methionine - Leucine - Threonine - Glutamine - Threonine - Leucine
+
+Methionine - Serine - Phenylalanine - Threonine - Histidine - Isoleucine - Cysteine - Valine - Asparagine - Isoleucine - Serine - Glutamine
+
+" "
+
+Tyrosine - Serine - Leucine - Threonine - Methionine - Leucine - Leucine - Cysteine - Valine - Serine - Isoleucine - Alanine - Leucine - Methionine - Histidine - Leucine - Lysine - Valine
+
+Tryptophan - Leucine - Alanine
+
+Arginine - Threonine - Leucine - Serine - Glutamine - Phenylalanine - Phenylalanine - Isoleucine - Isoleucine - Lysine - Threonine - Methionine - Phenylalanine - Leucine - Cysteine - Leucine - Lysine - Glutamine - Asparagine - Valine - Glycine - Leucine - Arginine - Leucine - Threonine - Leucine - Leucine - Lysine - Aspartic Acid - Leucine - Methionine - Asparagine - Phenylalanine - Alanine - Leucine - Asparagine - Isoleucine - Glutamine - Cysteine
+
+Leucine - Asparagine - Arginine - Valine - Methionine - Isoleucine - Methionine - Cysteine - Threonine - Phenylalanine - Leucine - Threonine - Glutamine - Isoleucine - Histidine - Glutamine - Glutamic Acid - Serine
+
+Glycine - Proline - Alanine - Valine - Leucine
+
+Methionine - Isoleucine - Serine
+
+Lysine - Glutamine - Methionine - Valine - Histidine - Leucine
+
+Leucine - Asparagine - Glycine - Serine - Cysteine - Leucine
+
+Leucine
+
+Methionine - Leucine - Threonine - Histidine - Leucine - Leucine - Asparagine - Isoleucine - Leucine - Isoleucine - Arginine - Serine - Methionine - Leucine - Methionine - Serine - Phenylalanine - Isoleucine - Cysteine - Threonine - Tyrosine - Asparagine - Threonine
+
+Glutamic Acid - Serine - Tyrosine - Methionine - Methionine - Serine
+
+Glutamine - Aspartic Acid - Threonine - Cysteine
+
+Threonine - Cysteine - Isoleucine - Leucine - Leucine - Cysteine - Leucine - Leucine - Methionine - Isoleucine - Threonine - Leucine - Glutamine - Glycine - Isoleucine - Glycine - Asparagine - Leucine - Serine - Phenylalanine - Methionine - Arginine - Leucine - Cysteine - Threonine - Histidine - Arginine - Isoleucine - Glutamine - Serine - Tyrosine - Arginine - Leucine - Leucine - Glycine - Leucine - Valine - Phenylalanine - Phenylalanine - Alanine - Isoleucine - Histidine - Arginine - Leucine - Histidine
+
+Aspartic Acid - Valine - Valine - Leucine - Alanine - Tyrosine - Valine - Aspartic Acid - Histidine - Serine - Tyrosine - Valine - Valine - Asparagine - Alanine - Valine - Threonine - Threonine - Methionine - Serine - Tyrosine - Glutamine - Histidine - Histidine - Isoleucine - Asparagine
+
+Serine - Cysteine - Leucine - Leucine - Isoleucine - Arginine - Methionine - Phenylalanine - Alanine - Methionine - Leucine - Glutamine - Valine - Valine - Methionine - Serine - Glutamine - Methionine
+
+Leucine - Asparagine - Phenylalanine - Threonine
+
+Glutamic Acid - Valine
+
+Alanine - Isoleucine - Isoleucine - Valine - Asparagine - Histidine - Isoleucine - Asparagine - Histidine - Proline - Leucine - Valine - Phenylalanine - Histidine - Cysteine - Valine - Leucine - Methionine - Aspartic Acid - Lysine - Phenylalanine - Leucine - Valine - Tyrosine - Isoleucine - Lysine - Isoleucine - Histidine - Valine - Leucine - Valine - Alanine - Isoleucine - Methionine - Leucine - Leucine - Threonine - Leucine - Methionine - Glutamine - Leucine - Glutamine - Histidine - Valine - Threonine - Glycine - Glutamine - Methionine - Leucine - Valine - Isoleucine - Threonine - Phenylalanine
+
+Leucine - Threonine - Proline - Valine - Leucine - Lysine - Aspartic Acid - Serine - Serine - Phenylalanine - Leucine - Glutamine - Glutamine - Lysine - Arginine - Serine - Lysine - Leucine - Leucine - Arginine - Arginine - Histidine - Leucine - Asparagine - Cysteine - Leucine - Methionine - Valine - Leucine - Leucine - Leucine - Tyrosine - Valine - Lysine - Cysteine - Cysteine - Leucine - Threonine - Glutamic Acid - Asparagine - Tyrosine - Isoleucine - Phenylalanine - Histidine - Glycine - Lysine - Leucine - Valine - Asparagine - Leucine - Aspartic Acid - Histidine - Histidine - Leucine - Threonine - Glutamic Acid - Isoleucine - Methionine - Serine - Leucine - Leucine - Valine - Isoleucine - Valine
+
+Leucine - Lysine - Threonine - Valine - Lysine - Tyrosine - Lysine
+
+Glutamic Acid - Serine - Threonine - Proline - Leucine - Lysine - Lysine - Valine - Threonine - Methionine - Valine - Methionine - Leucine - Leucine - Phenylalanine - Threonine - Glutamic Acid - Valine - Glutamine - Glutamine - Leucine - Threonine - Asparagine
+
+Methionine - Leucine - Valine - Isoleucine - Isoleucine - Leucine - Cysteine
+
+Histidine - Histidine - Isoleucine - Glutamine
+
+Cysteine - Histidine
+
+Valine - Histidine - Leucine - Histidine
+
+Cysteine - Histidine - Lysine - Serine - Threonine - Methionine - Leucine - Glutamic Acid - Leucine - Leucine - Alanine - Tyrosine - Threonine - Glutamine - Histidine - Serine - Isoleucine - Serine - Glutamine - Methionine - Serine - Phenylalanine - Leucine - Alanine - Methionine - Leucine - Glutamine - Isoleucine - Isoleucine - Lysine - Arginine - Leucine - Valine - Cysteine - Lysine - Serine - Isoleucine - Leucine - Histidine - Serine - Arginine - Aspartic Acid - Histidine - Leucine - Valine - Leucine - Valine - Arginine - Valine - Isoleucine - Leucine - Leucine - Leucine - Alanine
+
+Leucine - Serine - Threonine - Threonine - Leucine - Leucine - Leucine - Alanine
+
+Cysteine - Isoleucine - Glutamine - Leucine - Alanine - Leucine - Methionine - Proline - Leucine - Leucine - Methionine - Histidine - Tyrosine - Valine - Arginine - Arginine - Histidine
+
+Asparagine - Isoleucine - Cysteine - Leucine
+
+Isoleucine - Asparagine - Valine - Valine - Glutamic Acid - Leucine - Tyrosine - Leucine - Histidine - Valine - Leucine - Valine
+
+Serine - Valine - Leucine - Isoleucine - Asparagine - Serine - Lysine
+
+Isoleucine - Glutamine - Histidine
+
+Asparagine - Serine - Methionine - Serine - Phenylalanine - Valine - Leucine
+
+Methionine - Histidine - Cysteine - Leucine - Arginine - Arginine - Glutamine - Glutamine - Isoleucine
+
+Leucine - Serine - Leucine - Methionine - Lysine - Phenylalanine - Glutamine - Tryptophan - Proline - Glutamine - Isoleucine - Methionine - Isoleucine
+
+Valine - Leucine - Serine - Methionine - Proline - Aspartic Acid - Tyrosine - Valine - Leucine - Serine - Threonine - Methionine - Cysteine - Threonine - Leucine - Alanine - Threonine - Leucine - Leucine - Asparagine - Tyrosine - Leucine - Histidine - Histidine - Alanine - Histidine - Cysteine
+
+Leucine - Arginine - Alanine - Histidine
+
+Asparagine - Glutamine - Asparagine - Isoleucine - Serine - Isoleucine - Glutamine - Cysteine - Valine - Aspartic Acid - Leucine
+
+Lysine - Leucine
+
+Valine - Glutamine - Threonine - Cysteine - Serine - Serine - Glutamic Acid - Leucine - Valine - Glycine - Valine - Valine - Leucine - Leucine - Lysine - Leucine - Leucine - Threonine - Leucine
+
+Valine - Leucine - Tryptophan - Phenylalanine - Methionine - Isoleucine - Isoleucine - Serine - Leucine - Lysine - Histidine
+
+
+Isoleucine - Lysine - Threonine - Asparagine - Glutamine - Leucine - Asparagine - Alanine - Leucine - Lysine - Cysteine - Phenylalanine - Isoleucine - Arginine - Valine - Leucine - Serine - Arginine - Methionine - Methionine - Phenylalanine - Histidine - Leucine - Glutamine - Leucine - Threonine - Glycine - Histidine - Lysine
+
+Alanine - Tryptophan
+
+Glutamic Acid - Asparagine - Serine - Leucine - Histidine - Valine - Threonine - Leucine - Leucine - Glycine - Glutamic Acid - Lysine - Leucine - Serine - Leucine - Phenylalanine - Histidine - Leucine - Isoleucine - Isoleucine - Histidine - Arginine - Methionine - Leucine
+
+Proline - Glutamine - Arginine - Phenylalanine - Tryptophan - Aspartic Acid - Tyrosine - Glutamine - Leucine - Lysine - Leucine - Leucine - Isoleucine - Histidine - Histidine - Arginine - Alanine - Glutamine - Asparagine - Methionine - Threonine - Methionine - Serine - Tyrosine - Serine - Leucine - Lysine - Proline - Leucine - Lysine - Glutamine - Leucine - Threonine - Leucine - Valine - Methionine
+
+Threonine - Aspartic Acid - Leucine - Methionine - Leucine - Leucine - Leucine - Proline - Glutamic Acid - Glutamine - Lysine
+
+Alanine - Tyrosine - Phenylalanine - Alanine
+
+Cysteine - Leucine - Isoleucine - Glutamic Acid - Threonine - Phenylalanine - Methionine - Threonine - Serine - Cysteine - Asparagine - Leucine - Glutamine - Valine - Leucine - Lysine - Phenylalanine - Histidine - Valine - Glycine - Methionine - Tryptophan - Glutamine - Leucine - Tyrosine - Lysine - Leucine - Lysine - Methionine
+
+Glutamine - Aspartic Acid - Serine - Leucine - Lysine - Isoleucine - Valine - Valine - Arginine
+
+Serine - Leucine - Glycine - Tyrosine - Isoleucine - Leucine - Histidine - Arginine - Histidine - Leucine - Histidine - Threonine - Serine - Valine - Leucine - Threonine - Leucine - Asparagine - Serine - Lysine - Leucine - Lysine - Valine - Tyrosine - Valine - Leucine - Threonine - Tyrosine - Leucine - Alanine - Tyrosine - Leucine - Arginine - Threonine
+
+Proline - Isoleucine - Glutamic Acid - Aspartic Acid - Serine - Serine - Leucine
+
+Tryptophan - Valine - Leucine - Lysine
+
+Isoleucine - Isoleucine - Lysine - Leucine - Methionine - Valine - Threonine - Leucine - Threonine - Cysteine - Leucine - Serine - Proline - Alanine - Lysine - Lysine - Leucine
+
+Aspartic Acid - Methionine - Tyrosine - Valine - Histidine - Glycine - Leucine - Alanine - Serine - Methionine - Serine - Arginine - Glycine - Valine - Methionine - Leucine - Leucine - Glutamic Acid - Lysine - Leucine - Leucine - Valine - Proline - Isoleucine - Tyrosine - Leucine - Tyrosine - Serine
+
+Valine - Phenylalanine - Leucine - Glutamine - Valine - Leucine - Threonine
+
+Leucine - Leucine - Tyrosine - Leucine - Glutamine - Valine - Methionine - Leucine - Isoleucine - Histidine - Leucine - Isoleucine - Isoleucine - Glutamine - Isoleucine - Phenylalanine - Proline - Glutamic Acid - Leucine - Valine - Leucine - Asparagine - Histidine - Arginine - Leucine - Glutamic Acid - Isoleucine - Asparagine - Leucine - Asparagine - Threonine - Serine - Tyrosine - Histidine - Leucine - Cysteine - Threonine - Lysine - Aspartic Acid - Phenylalanine - Leucine - Glycine - Methionine
+
+Cysteine - Valine
+
+Arginine - Leucine - Tyrosine - Lysine - Cysteine
+
+Valine - Threonine - Histidine - Leucine - Lysine - Isoleucine - Serine - Leucine - Threonine - Glutamic Acid - Serine - Tyrosine - Leucine - Serine - Tyrosine - Glycine - Histidine - Methionine - Alanine - Leucine - Serine
+
+Histidine - Leucine
+
+Serine - Isoleucine - Leucine
+
+Lysine
+
+Aspartic Acid - Leucine - Serine - Alanine - Proline - Valine - Valine - Tyrosine - Valine - Isoleucine - Aspartic Acid - Valine - Proline - Histidine - Alanine - Phenylalanine - Proline - Leucine - Leucine - Glutamine - Threonine - Leucine - Methionine - Proline - Valine - Glycine - Isoleucine - Isoleucine - Leucine - Leucine - Aspartic Acid - Leucine - Isoleucine - Threonine - Serine - Isoleucine - Isoleucine - Arginine - Leucine
+
+Leucine - Methionine - Phenylalanine - Asparagine - Asparagine - Glycine - Valine - Leucine - Glutamine - Valine - Threonine - Tyrosine - Lysine - Alanine - Threonine - Methionine - Isoleucine - Cysteine - Isoleucine - Valine - Lysine - Serine - Methionine - Valine - Methionine - Histidine - Methionine
+
+Leucine - Valine - Valine - Methionine - Glutamine - Serine
+
+Leucine - Glycine - Valine 
+
+  Leucine - Serine - Threonine - Serine - Alanine - Leucine - Leucine - Serine - Valine - Leucine - Threonine - Glycine - Leucine - Leucine - Asparagine - Isoleucine - Leucine  
+
+  Leucine - Valine - Methionine - Asparagine  
+
+  Arginine - Leucine - Methionine - Arginine - Leucine - Valine - Glutamic Acid - Arginine - Phenylalanine - Asparagine - Threonine - Tryptophan - Leucine - Leucine - Lysine - Leucine - Histidine - Tyrosine  
+
+  Glutamine - Threonine - Asparagine - Serine - Glutamine - Phenylalanine - Phenylalanine - Threonine - Threonine - Leucine - Valine - Threonine - Leucine - Lysine - Leucine - Leucine - Serine - Valine - Tyrosine - Leucine - Lysine - Leucine - Methionine  
+
+  Asparagine - Glycine - Serine - Serine - Methionine - Methionine - Histidine - Serine - Leucine - Valine - Valine - Threonine - Lysine - Leucine - Isoleucine - Lysine  
+
+  Lysine - Asparagine - Tyrosine - Serine - Isoleucine - Leucine - Methionine - Proline - Histidine - Isoleucine - Leucine - Threonine - Asparagine - Serine - Glutamine - Methionine - Valine - Tyrosine - Alanine - Tyrosine - Phenylalanine - Glycine - Isoleucine - Alanine - Methionine - Serine - Isoleucine - Aspartic Acid - Isoleucine - Leucine - Leucine - Isoleucine - Proline - Leucine - Phenylalanine - Valine - Aspartic Acid - Leucine - Threonine - Leucine - Glutamic Acid - Cysteine - Tyrosine - Leucine - Threonine - Leucine - Threonine - Cysteine - Leucine - Valine - Valine - Methionine - Valine - Alanine - Valine - Cysteine - Methionine  
+
+  Isoleucine - Asparagine - Methionine - Histidine - Serine - Threonine - Histidine - Glutamine - Leucine - Leucine - Isoleucine - Lysine - Valine - Leucine - Leucine - Leucine - Isoleucine  
+
+  Asparagine - Asparagine - Tyrosine - Histidine - Phenylalanine - Serine - Isoleucine - Threonine - Leucine - Threonine - Valine - Histidine - Valine - Serine - Leucine - Methionine - Glutamic Acid - Asparagine - Lysine  
+
+  Cysteine - Glutamine - Isoleucine  
+
+  Isoleucine - Methionine - Tyrosine - Histidine  
+
+  Serine - Leucine - Leucine - Arginine - Valine  
+
+  Histidine - Valine - Alanine - Isoleucine  
+
+  Valine - Valine - Leucine - Serine - Valine - Aspartic Acid - Isoleucine - Methionine - Leucine - Methionine - Serine - Threonine - Aspartic Acid - Cysteine - Isoleucine - Serine - Methionine - Leucine - Isoleucine - Threonine  
+
+  Serine - Glutamine - Leucine - Alanine - Leucine - Alanine - Cysteine - Glycine - Phenylalanine - Threonine - Asparagine - Asparagine - Leucine - Isoleucine - Leucine - Isoleucine - Threonine - Serine - Glycine - Threonine - Leucine - Leucine - Glutamine - Aspartic Acid - Phenylalanine - Arginine - Valine  Lysine - Methionine - Tryptophan - Leucine - Leucine - Methionine - Leucine  Isoleucine - Arginine - Aspartic Acid - Threonine - Leucine - Methionine - Aspartic Acid - Asparagine - Arginine - Valine - Lysine - Tyrosine - Glutamine - Phenylalanine - Leucine - Serine - Leucine - Isoleucine - Threonine - Leucine - Phenylalanine - Threonine - Glutamine - Lysine - Leucine - Methionine - Valine - Leucine - Methionine  
+
+  Asparagine - Cysteine - Leucine - Lysine - Isoleucine - Lysine - Glutamine - Histidine - Tyrosine - Leucine - Leucine - Methionine  
+
+  Histidine - Leucine - Serine - Phenylalanine - Glycine - Leucine - Serine - Alanine - Threonine - Leucine - Asparagine - Glutamine - Tyrosine - Glutamine - Arginine  
+
+  Lysine - Tyrosine - Serine - Isoleucine - Isoleucine - Tryptophan - Valine - Tryptophan - Threonine - Leucine - Leucine - Leucine - Isoleucine - Leucine  
+
+  Serine - Glycine - Threonine - Threonine - Lysine - Glutamic Acid - Methionine - Leucine - Glutamine - Histidine - Isoleucine - Tyrosine - Leucine - Leucine - Leucine - Valine - Phenylalanine - Valine - Leucine  
+
+  Leucine - Threonine  
+
+  Proline - Arginine - Asparagine - Glutamine - Leucine - Lysine - Arginine - Phenylalanine - Valine - Histidine - Histidine - Serine - Leucine - Serine - Phenylalanine - Leucine - Methionine - Valine - Glutamic Acid - Leucine - Methionine - Valine - Lysine  
+
+  Threonine - Tyrosine - Leucine - Glutamic Acid - Methionine - Proline - Valine - Methionine - Valine - Phenylalanine - Leucine - Leucine - Glutamine - Lysine - Valine - Valine - Leucine - Lysine - Valine - Tyrosine - Asparagine - Histidine - Leucine  
+
+  Valine - Proline - Asparagine - Lysine - Leucine - Valine - Leucine - Methionine - Glutamic Acid - Serine - Histidine  
+
+  Leucine - Glutamic Acid - Lysine - Proline  
+
+  Lysine - Histidine - Serine - Serine - Isoleucine - Isoleucine - Isoleucine - Arginine - Lysine - Leucine - Methionine - Valine - Leucine - Serine - Asparagine - Asparagine - Tyrosine - Leucine - Lysine - Leucine - Threonine - Leucine - Leucine - Arginine - Valine - Glutamic Acid - Isoleucine - Tyrosine - Lysine - Asparagine - Leucine - Asparagine - Proline - Glycine - Valine - Lysine - Tryptophan - Lysine - Leucine - Isoleucine - Serine  
+
+  Asparagine  
+
+  Leucine - Tryptophan - Methionine - Asparagine - Serine - Leucine - Asparagine - Glycine - Isoleucine - Asparagine  L
+
+  ysine - Alanine - Methionine - Proline - Serine - Asparagine - Isoleucine - Serine - Phenylalanine - Methionine - Glutamic Acid - Isoleucine - Leucine - Valine - Isoleucine - Valine - Serine  
+
+  Valine - Valine - Tyrosine - Isoleucine - Tyrosine  
+
+  Leucine - Aspartic Acid  
+
+  Leucine - Asparagine - Valine - Leucine - Arginine - Asparagine - Histidine - Leucine - Leucine - Asparagine  
+
+  Lysine - Isoleucine - Leucine - Phenylalanine - Leucine - Tryptophan - Threonine - Valine - Glutamine - Leucine - Lysine - Threonine - Isoleucine - Serine  
+
+  Glutamine - Methionine - Arginine - Lysine - Glutamine - Valine - Histidine - Leucine - Serine - Valine - Cysteine - Valine - Leucine - Leucine - Leucine - Isoleucine - Tyrosine - Tyrosine - Leucine - Methionine - Isoleucine - Leucine - Leucine - Lysine  
+
+  Asparagine - Proline - Lysine - Isoleucine - Tyrosine - Leucine  
+
+  Phenylalanine - Leucine - Arginine - Leucine - Serine - Lysine  
+
+  Leucine - Leucine - Threonine - Isoleucine - Glutamine - Lysine - Phenylalanine - Histidine - Leucine - Cysteine - Phenylalanine - Glycine - Valine - Lysine - Methionine - Alanine - Methionine  
+
+  Lysine - Histidine - Phenylalanine - Threonine - Glutamine - Asparagine - Tyrosine - Asparagine - Leucine - Valine - Lysine - Arginine - Glycine - Asparagine - Arginine - Valine - Leucine - Leucine - Cysteine - Leucine - Isoleucine - Phenylalanine - Threonine - Lysine - Cysteine - Lysine - Glutamic Acid - Cysteine - Tyrosine  
+
+  Lysine - Serine - Valine - Threonine - Phenylalanine - Lysine - Isoleucine - Methionine - Valine - Isoleucine - Valine - Glutamine - Histidine - Tyrosine - Leucine - Lysine - Alanine 
+
+  Methionine - Serine - Glutamine - Asparagine - Isoleucine - Leucine - Asparagine - Cysteine - Valine - Asparagine - Isoleucine  Threonine - Histidine  
+
+  Histidine  
+
+  Leucine - Tyrosine - Proline - Isoleucine - Isoleucine  
+
+
+  Glutamic Acid - Leucine - Tyrosine - Isoleucine - Leucine - Valine - Leucine - Valine - Leucine - Isoleucine - Lysine - Glutamic Acid - Leucine - Histidine - Glutamine - Valine - Glutamine - Leucine - Phenylalanine  
+
+
+Aspartic Acid - Serine - Glycine - Cysteine - Leucine - Arginine - Valine - Arginine - Cysteine - Leucine - Serine - Isoleucine - Glutamine - Isoleucine - Leucine - Methionine - Threonine - Leucine - Serine - Leucine - Methionine - Glutamine - Isoleucine - Glutamine - Leucine  
+
+
+  Leucine - Valine - Isoleucine - Valine - Glutamine - Leucine - Tyrosine - Isoleucine - Glutamine - Leucine - Isoleucine - Asparagine - Glycine - Isoleucine - Serine - Leucine - Leucine - Valine - Isoleucine - Cysteine - Threonine - Threonine - Leucine - Arginine - Leucine - Lysine - Methionine - Leucine - Glutamine - Lysine - Lysine - Methionine - Threonine - Leucine - Lysine - Arginine - Valine - Phenylalanine - Serine - Leucine - Threonine - Phenylalanine - Valine - Glycine - Leucine - Tyrosine - Asparagine - Lysine - Serine  
+
+  Leucine - Leucine - Glutamic Acid - Valine - Proline - Tryptophan - Leucine  
+
+  Arginine  
+
+
+  Glutamine - Asparagine - Isoleucine - Leucine - Glycine - Methionine - Leucine - Isoleucine - Phenylalanine - Isoleucine - Serine - Serine - Tryptophan - Aspartic Acid - Threonine - Serine - Histidine - Glycine - Glycine - Glutamine - Proline - Leucine - Leucine - Leucine - Methionine  
+
+
+  Methionine - Arginine - Histidine - Histidine - Leucine - Lysine - Histidine - Phenylalanine  
+
+
+  Leucine - Aspartic Acid - Valine - Isoleucine - Isoleucine - Leucine - Alanine - Asparagine - Histidine - Alanine - Asparagine - Lysine  
+
+
+  Methionine - Valine - Methionine - Serine - Cysteine - Methionine - Glutamine - Isoleucine - Threonine - Tyrosine - Phenylalanine - Glycine - Glycine - Isoleucine - Glutamine - Isoleucine - Glutamine - Phenylalanine - Serine - Cysteine - Leucine - Proline - Isoleucine - Leucine - Tyrosine - Leucine - Threonine  
+
+
+  Valine - Asparagine - Phenylalanine - Proline - Leucine - Asparagine  
+
+
+  Glycine - Valine - Leucine - Leucine - Leucine - Cysteine - Leucine  
+
+
+  Lysine - Lysine - Valine - Lysine - Serine - Methionine - Isoleucine  Phenylalanine - Tyrosine - Leucine - Phenylalanine - Leucine - Valine - Lysine - Valine - Aspartic Acid - Leucine  
+
+
+  Leucine - Glutamic Acid - Lysine - Threonine - Threonine - Glutamic Acid - Leucine - Leucine - Phenylalanine - Leucine - Valine - Methionine - Phenylalanine - Leucine - Leucine - Threonine - Threonine - Lysine - Arginine - Threonine - Methionine - Phenylalanine - Valine - Phenylalanine - Leucine - Valine - Leucine - Leucine - Proline - Leucine - Valine - Serine - Serine - Glutamine - Cysteine - Valine - Asparagine - Leucine - Threonine - Threonine - Arginine - Threonine - Glutamine - Leucine - Proline - Proline - Alanine - Tyrosine - Threonine - Asparagine - Serine - Phenylalanine - Threonine - Arginine - Glycine - Valine - Tyrosine - Tyrosine - Proline - Aspartic Acid - Lysine - Valine - Phenylalanine - Arginine - Serine - Serine - Valine - Leucine - Histidine - Serine - Threonine - Glutamine - Aspartic Acid - Leucine - Phenylalanine - Leucine - Proline - Phenylalanine - Phenylalanine - Serine - Asparagine - Valine - Threonine - Tryptophan - Phenylalanine - Histidine - Valine - Isoleucine - Serine - Glycine - Threonine - Asparagine - Glycine - Threonine - Lysine - Arginine - Phenylalanine - Aspartic Acid - Asparagine - Proline - Valine - Leucine - Proline - Phenylalanine - Asparagine - Aspartic Acid - Glycine - Valine - Tyrosine - Phenylalanine - Alanine - Serine - Isoleucine - Glutamic Acid - Lysine - Serine - Asparagine - Isoleucine - Isoleucine - Arginine - Glycine - Tryptophan - Isoleucine - Phenylalanine - Glycine - Threonine - Threonine - Leucine - Aspartic Acid - Serine - Lysine - Threonine - Glutamine - Serine - Leucine - Leucine - Isoleucine - Valine - Asparagine - Asparagine - Alanine - Threonine - Asparagine - Valine - Valine - Isoleucine - Lysine - Valine - Cysteine - Glutamic Acid - Phenylalanine - Glutamine - Phenylalanine - Cysteine - Asparagine - Aspartic Acid - Proline - Phenylalanine - Leucine - Aspartic Acid - Histidine - Lysine - Asparagine - Asparagine - Lysine - Serine - Tryptophan - Methionine - Glutamic Acid - Serine - Glutamic Acid - Phenylalanine - Arginine - Valine - Tyrosine - Serine - Serine - Alanine - Asparagine - Asparagine - Cysteine - Threonine - Phenylalanine - Glutamic Acid - Tyrosine - Valine - Serine - Glutamine - Proline - Phenylalanine - Leucine - Methionine - Aspartic Acid - Leucine - Glutamic Acid - Glycine - Lysine - Glutamine - Glycine - Asparagine - Phenylalanine - Lysine - Asparagine - Leucine - Arginine - Glutamic Acid - Phenylalanine - Valine - Phenylalanine - Lysine - Asparagine - Isoleucine - Aspartic Acid - Glycine - Tyrosine - Phenylalanine - Lysine - Isoleucine - Tyrosine - Serine - Lysine - Histidine - Threonine - Proline - Isoleucine - Isoleucine - Valine - Arginine - Glutamic Acid - Proline - Glutamic Acid - Aspartic Acid - Leucine - Proline - Glutamine - Glycine - Phenylalanine - Serine - Alanine - Leucine - Glutamic Acid - Proline - Leucine - Valine - Aspartic Acid - Leucine - Proline - Isoleucine - Glycine - Isoleucine - Asparagine - Isoleucine - Threonine - Arginine - Phenylalanine - Glutamine - Threonine - Leucine - Leucine - Alanine - Leucine - Histidine - Arginine - Serine - Tyrosine - Leucine - Threonine - Proline - Glycine - Aspartic Acid - Serine - Serine - Serine - Glycine - Tryptophan - Threonine - Alanine - Glycine - Alanine - Alanine - Alanine - Tyrosine - Tyrosine - Valine - Glycine - Tyrosine - Leucine - Glutamine - Proline - Arginine - Threonine - Phenylalanine - Leucine - Leucine - Lysine - Tyrosine - Asparagine - Glutamic Acid - Asparagine - Glycine - Threonine - Isoleucine - Threonine - Aspartic Acid - Alanine - Valine - Aspartic Acid - Cysteine - Alanine - Leucine - Aspartic Acid - Proline - Leucine - Serine - Glutamic Acid - Threonine - Lysine - Cysteine - Threonine - Leucine - Lysine - Serine - Phenylalanine - Threonine - Valine - Glutamic Acid - Lysine - Glycine - Isoleucine - Tyrosine - Glutamine - Threonine - Serine - Asparagine - Phenylalanine - Arginine - Valine - Glutamine - Proline - Threonine - Glutamic Acid - Serine - Isoleucine - Valine - Arginine - Phenylalanine - Proline - Asparagine - Isoleucine - Threonine - Asparagine - Leucine - Cysteine - Proline - Phenylalanine - Aspartic Acid - Glutamic Acid - Valine - Phenylalanine - Asparagine - Alanine - Threonine - Lysine - Phenylalanine - Alanine - Serine - Valine - Tyrosine - Alanine - Tryptophan - Asparagine - Arginine - Lysine - Arginine - Isoleucine - Serine - Asparagine - Cysteine - Valine - Alanine - Aspartic Acid - Tyrosine - Serine - Valine - Leucine - Tyrosine - Asparagine - Leucine - Alanine - Proline - Phenylalanine - Phenylalanine - Threonine - Phenylalanine - Lysine - Cysteine - Tyrosine - Glycine - Valine - Serine - Proline - Threonine - Lysine - Leucine - Asparagine - Aspartic Acid - Leucine - Cysteine - Phenylalanine - Threonine - Asparagine - Valine - Tyrosine - Alanine - Aspartic Acid - Serine - Phenylalanine - Valine - Isoleucine - Arginine - Glycine - Aspartic Acid - Glutamic Acid - Valine - Arginine - Glutamine - Isoleucine - Alanine - Proline - Glycine - Glutamine - Threonine - Glycine - Asparagine - Isoleucine - Alanine - Aspartic Acid - Tyrosine - Asparagine - Tyrosine - Lysine - Leucine - Proline - Aspartic Acid - Aspartic Acid - Phenylalanine - Threonine - Glycine - Cysteine - Valine - Isoleucine - Alanine - Tryptophan - Asparagine - Serine - Asparagine - Lysine - Leucine - Aspartic Acid - Serine - Lysine - Valine - Serine - Glycine - Asparagine - Tyrosine - Asparagine - Tyrosine - Leucine - Tyrosine - Arginine - Leucine - Phenylalanine - Arginine - Lysine - Serine - Asparagine - Leucine - Lysine - Proline - Phenylalanine - Glutamic Acid - Arginine - Aspartic Acid - Isoleucine - Serine - Threonine - Glutamic Acid - Isoleucine - Tyrosine - Glutamine - Alanine - Glycine - Asparagine - Lysine - Proline - Cysteine - Asparagine - Glycine - Valine - Alanine - Glycine - Phenylalanine - Asparagine - Cysteine - Tyrosine - Phenylalanine - Proline - Leucine - Arginine - Serine - Tyrosine - Serine - Phenylalanine - Arginine - Proline - Threonine - Tyrosine - Glycine - Valine - Glycine - Histidine - Glutamine - Proline - Tyrosine - Arginine - Valine - Valine - Valine - Leucine - Serine - Phenylalanine - Glutamic Acid - Leucine - Leucine - Histidine - Alanine - Proline - Alanine - Threonine - Valine - Cysteine - Glycine - Proline - Lysine - Lysine - Serine - Threonine - Asparagine - Leucine - Valine - Lysine - Asparagine - Lysine - Cysteine - Valine - Asparagine - Phenylalanine - Asparagine - Phenylalanine - Asparagine - Glycine - Leucine - Lysine - Glycine - Threonine - Glycine - Valine - Leucine - Threonine - Glutamic Acid - Serine - Asparagine - Lysine - Lysine - Phenylalanine - Leucine - Proline - Phenylalanine - Glutamine - Glutamine - Phenylalanine - Glycine - Arginine - Aspartic Acid - Isoleucine - Alanine - Aspartic Acid - Threonine - Threonine - Aspartic Acid - Alanine - Valine - Arginine - Aspartic Acid - Proline - Glutamine - Threonine - Leucine - Glutamic Acid - Isoleucine - Leucine - Aspartic Acid - Isoleucine - Threonine - Proline - Cysteine - Serine - Phenylalanine - Glycine - Glycine - Valine - Serine - Valine - Isoleucine - Threonine - Proline - Glycine - Threonine - Asparagine - Threonine - Serine - Asparagine - Glutamine - Valine - Alanine - Valine - Leucine - Tyrosine - Glutamine - Glycine - Valine - Asparagine - Cysteine - Threonine - Glutamic Acid - Valine - Proline - Valine - Alanine - Isoleucine - Histidine - Alanine - Aspartic Acid - Glutamine - Leucine - Threonine - Proline - Threonine - Tryptophan - Arginine - Valine - Tyrosine - Serine - Threonine - Glycine - Serine - Asparagine - Valine - Phenylalanine - Glutamine - Threonine - Arginine - Alanine - Glycine - Cysteine - Leucine - Isoleucine - Glycine - Alanine - Glutamic Acid - Tyrosine - Valine - Asparagine - Asparagine - Serine - Tyrosine - Glutamic Acid - Cysteine - Aspartic Acid - Isoleucine - Proline - Isoleucine - Glycine - Alanine - Glycine - Isoleucine - Cysteine - Alanine - Serine - Tyrosine - Glutamine - Threonine - Glutamine - Threonine - Lysine - Serine - Histidine - Arginine - Arginine - Alanine - Arginine - Serine - Valine - Alanine - Serine - Glutamine - Serine - Isoleucine - Isoleucine - Alanine - Tyrosine - Threonine - Methionine - Serine - Leucine - Glycine - Alanine - Glutamic Acid - Asparagine - Serine - Valine - Alanine - Tyrosine - Serine - Asparagine - Asparagine - Serine - Isoleucine - Alanine - Isoleucine - Proline - Threonine - Asparagine - Phenylalanine - Threonine - Isoleucine - Serine - Valine - Threonine - Threonine - Glutamic Acid - Isoleucine - Leucine - Proline - Valine - Serine - Methionine - Threonine - Lysine - Threonine - Serine - Valine - Aspartic Acid - Cysteine - Threonine - Methionine - Tyrosine - Isoleucine - Cysteine - Glycine - Aspartic Acid - Serine - Threonine - Glutamic Acid - Cysteine - Serine - Asparagine - Leucine - Leucine - Leucine - Glutamine - Tyrosine - Glycine - Serine - Phenylalanine - Cysteine - Threonine - Glutamine - Leucine - Lysine - Arginine - Alanine - Leucine - Threonine - Glycine - Isoleucine - Alanine - Valine - Glutamic Acid - Glutamine - Aspartic Acid - Lysine - Asparagine - Threonine - Glutamine - Glutamic Acid - Valine - Phenylalanine - Alanine - Glutamine - Valine - Lysine - Glutamine - Isoleucine - Tyrosine - Lysine - Threonine - Proline - Proline - Isoleucine - Lysine - Tyrosine - Phenylalanine - Glycine - Glycine - Phenylalanine - Asparagine - Phenylalanine - Serine - Glutamine - Isoleucine - Leucine - Proline - Aspartic Acid - Proline - Serine - Lysine - Proline - Serine - Lysine - Arginine - Serine - Phenylalanine - Isoleucine - Glutamic Acid - Aspartic Acid - Leucine - Leucine - Phenylalanine - Asparagine - Lysine - Valine - Threonine - Leucine - Alanine - Aspartic Acid - Alanine - Glycine - Phenylalanine - Isoleucine - Lysine - Glutamine - Tyrosine - Glycine - Aspartic Acid - Cysteine - Leucine - Glycine - Aspartic Acid - Isoleucine - Alanine - Alanine - Arginine - Aspartic Acid - Leucine - Isoleucine - Cysteine - Alanine - Glutamine - Lysine - Phenylalanine - Lysine - Glycine - Leucine - Threonine - Valine - Leucine - Proline - Proline - Leucine - Leucine - Threonine - Aspartic Acid - Glutamic Acid - Methionine - Isoleucine - Alanine - Glutamine - Tyrosine - Threonine - Serine - Alanine - Leucine - Leucine - Alanine - Glycine - Threonine - Isoleucine - Threonine - Serine - Glycine - Tryptophan - Threonine - Phenylalanine - Glycine - Alanine - Glycine - Alanine - Alanine - Leucine - Glutamine - Isoleucine - Proline - Phenylalanine - Alanine - Methionine - Glutamine - Methionine - Alanine - Tyrosine - Arginine - Phenylalanine - Asparagine - Glycine - Isoleucine - Glycine - Valine - Threonine - Glutamine - Asparagine - Valine - Leucine - Tyrosine - Glutamic Acid - Asparagine - Glutamine - Lysine - Leucine - Isoleucine - Alanine - Asparagine - Glutamine - Phenylalanine - Asparagine - Serine - Alanine - Isoleucine - Glycine - Lysine - Isoleucine - Glutamine - Aspartic Acid - Serine - Leucine - Serine - Serine - Threonine - Alanine - Serine - Alanine - Leucine - Glycine - Lysine - Leucine - Glutamine - Aspartic Acid - Valine - Valine - Asparagine - Histidine - Asparagine - Alanine - Glutamine - Alanine - Leucine - Asparagine - Threonine - Leucine - Valine - Lysine - Glutamine - Leucine - Serine - Serine - Lysine - Phenylalanine - Glycine - Alanine - Isoleucine - Serine - Serine - Valine - Leucine - Asparagine - Aspartic Acid - Isoleucine - Phenylalanine - Serine - Arginine - Leucine - Aspartic Acid - Lysine - Valine - Glutamic Acid - Alanine - Glutamic Acid - Valine - Glutamine - Isoleucine - Aspartic Acid - Arginine - Leucine - Isoleucine - Threonine - Glycine - Arginine - Leucine - Glutamine - Serine - Leucine - Glutamine - Threonine - Tyrosine - Valine - Threonine - Glutamine - Glutamine - Leucine - Isoleucine - Arginine - Alanine - Alanine - Glutamic Acid - Isoleucine - Arginine - Alanine - Serine - Alanine - Asparagine - Leucine - Alanine - Alanine - Threonine - Lysine - Methionine - Serine - Glutamic Acid - Cysteine - Valine - Leucine - Glycine - Glutamine - Serine - Lysine - Arginine - Valine - Aspartic Acid - Phenylalanine - Cysteine - Glycine - Lysine - Glycine - Tyrosine - Histidine - Leucine - Methionine - Serine - Phenylalanine - Proline - Glutamine - Serine - Alanine - Proline - Histidine - Glycine - Valine - Valine - Phenylalanine - Leucine - Histidine - Valine - Threonine - Tyrosine - Valine - Proline - Alanine - Glutamine - Glutamic Acid - Lysine - Asparagine - Phenylalanine - Threonine - Threonine - Alanine - Proline - Alanine - Isoleucine - Cysteine - Histidine - Aspartic Acid - Glycine - Lysine - Alanine - Histidine - Phenylalanine - Proline - Arginine - Glutamic Acid - Glycine - Valine - Phenylalanine - Valine - Serine - Asparagine - Glycine - Threonine - Histidine - Tryptophan - Phenylalanine - Valine - Threonine - Glutamine - Arginine - Asparagine - Phenylalanine - Tyrosine - Glutamic Acid - Proline - Glutamine - Isoleucine - Isoleucine - Threonine - Threonine - Aspartic Acid - Asparagine - Threonine - Phenylalanine - Valine - Serine - Glycine - Asparagine - Cysteine - Aspartic Acid - Valine - Valine - Isoleucine - Glycine - Isoleucine - Valine - Asparagine - Asparagine - Threonine - Valine - Tyrosine - Aspartic Acid - Proline - Leucine - Glutamine - Proline - Glutamic Acid - Leucine - Aspartic Acid - Serine - Phenylalanine - Lysine - Glutamic Acid - Glutamic Acid - Leucine - Aspartic Acid - Lysine - Tyrosine - Phenylalanine - Lysine - Asparagine - Histidine - Threonine - Serine - Proline - Aspartic Acid - Valine - Aspartic Acid - Leucine - Glycine - Aspartic Acid - Isoleucine - Serine - Glycine - Isoleucine - Asparagine - Alanine - Serine - Valine - Valine - Asparagine - Isoleucine - Glutamine - Lysine - Glutamic Acid - Isoleucine - Aspartic Acid - Arginine - Leucine - Asparagine - Glutamic Acid - Valine - Alanine - Lysine - Asparagine - Leucine - Asparagine - Glutamic Acid - Serine - Leucine - Isoleucine - Aspartic Acid - Leucine - Glutamine - Glutamic Acid - Leucine - Glycine - Lysine - Tyrosine - Glutamic Acid - Glutamine - Tyrosine - Isoleucine - Lysine - Tryptophan - Proline - Tryptophan - Tyrosine - Isoleucine - Tryptophan - Leucine - Glycine - Phenylalanine - Isoleucine - Alanine - Glycine - Leucine - Isoleucine - Alanine - Isoleucine - Valine - Methionine - Valine - Threonine - Isoleucine - Methionine - Leucine - Cysteine - Cysteine - Methionine - Threonine - Serine - Cysteine - Cysteine - Serine - Cysteine - Leucine - Lysine - Glycine - Cysteine - Cysteine - Serine - Cysteine - Glycine - Serine - Cysteine - Cysteine - Lysine - Phenylalanine - Aspartic Acid - Glutamic Acid - Aspartic Acid - Aspartic Acid - Serine - Glutamic Acid - Proline - Valine - Leucine - Lysine - Glycine - Valine - Lysine - Leucine - Histidine - Tyrosine - Threonine 
+
+   Threonine - Asparagine - Leucine - Tryptophan - Isoleucine - Cysteine - Leucine  
+
+  Glutamic Acid - Serine - Serine - Glutamine - Leucine - Glutamic Acid - Leucine  
+
+  Leucine  
+
+  Serine - Lysine - Valine - Lysine - Serine - Arginine - Methionine - Leucine - Leucine - Leucine - Glutamine - Isoleucine - Leucine - Phenylalanine - Alanine - Leucine - Leucine - Glutamine - Arginine - Tyrosine - Arginine - Tyrosine - Lysine - Proline - Histidine - Serine - Leucine - Serine - Aspartic Acid - Glycine - Leucine - Leucine - Leucine - Alanine - Leucine - Histidine - Phenylalanine - Leucine - Leucine - Phenylalanine - Phenylalanine - Arginine - Alanine - Leucine - Proline - Lysine - Serine  
+
+  Leucine - Serine - Lysine - Arginine - Aspartic Acid - Glycine - Asparagine  
+
+  Histidine - Serine - Proline - Arginine - Valine - Phenylalanine - Threonine - Leucine - Phenylalanine - Alanine - Threonine - Cysteine - Cysteine - Cysteine - Cysteine - Leucine 
+
+   Glutamine - Phenylalanine - Threonine - Histidine - Threonine - Phenylalanine - Cysteine - Serine - Leucine - Leucine - Leucine - Alanine - Leucine - Lysine - Proline - Leucine - Phenylalanine - Serine - Isoleucine - Phenylalanine - Methionine - Leucine  
+
+  Serine - Threonine - Serine - Cysteine - Arginine - Valine  
+
+  Threonine - Leucine  
+
+  Glutamic Acid
+
+  Glycine - Phenylalanine - Glycine - Phenylalanine - Alanine - Glycine - Asparagine - Alanine - Valine - Proline - Lysine - Threonine - Histidine - Tyrosine - Phenylalanine - Methionine - Methionine - Proline - Threonine - Isoleucine - Phenylalanine - Phenylalanine - Alanine - Glycine - Isoleucine - Leucine - Isoleucine - Valine - Threonine - Threonine - Isoleucine - Valine - Tyrosine - Leucine - Threonine - Isoleucine - Valine  
+
+  Leucine - Leucine - Glutamine - Leucine - Serine - Leucine - Leucine - Glutamine - Valine - Methionine - Alanine - Glutamine - Glutamine - Valine - Leucine - Phenylalanine - Leucine - Asparagine - Methionine - Threonine - Threonine - Arginine - Leucine - Valine - Valine - Isoleucine - Leucine - Lysine - Asparagine - Glycine - Asparagine - Leucine - Glutamic Acid  
+
+  Lysine - Threonine - Valine - Leucine - Tyrosine - Tyrosine - Threonine - Valine - Threonine - Serine - Leucine - Glutamine - Threonine - Isoleucine - Threonine - Serine - Cysteine - Threonine - Glutamine - Leucine - Asparagine  
+
+  Valine - Glutamine - Threonine - Leucine - Valine - Leucine - Asparagine - Methionine - Leucine - Proline - Serine - Serine - Serine - Threonine - Isoleucine - Lysine - Leucine - Leucine - Methionine - Serine - Leucine - Lysine - Asparagine - Methionine - Serine - Lysine - Phenylalanine - Threonine - Glutamine - Serine - Threonine - Valine - Histidine - Proline - Glutamic Acid - Leucine - Leucine - Isoleucine - Glutamine  
+
+  Tryptophan - Asparagine - Glutamine - Phenylalanine - Methionine - Methionine - Asparagine - Arginine - Arginine - Arginine - Leucine - Leucine - Alanine - Cysteine - Leucine - Cysteine - Lysine - Histidine - Lysine - Leucine - Methionine - Serine - Threonine - Asparagine - Leucine - Cysteine - Threonine - Histidine - Serine - Phenylalanine - Arginine - Lysine - Arginine  
+
+  Valine - Arginine 
+
+  Leucine - Isoleucine - Alanine - Tyrosine - Phenylalanine - Phenylalanine - Phenylalanine - Leucine - Leucine - Serine - Tryptophan - Tyrosine - Serine - Cysteine  
+
+
+  Leucine - Histidine  
+
+
+  Proline - Serine - Leucine - Leucine - Arginine - Phenylalanine - Aspartic Acid - Cysteine - Valine - Arginine - Threonine - Alanine - Alanine - Isoleucine - Leucine - Leucine - Threonine  
+
+  Valine - Leucine  
+
+  Asparagine - Leucine - Leucine - Phenylalanine - Threonine - Phenylalanine - Threonine - Leucine - Valine - Leucine - Lysine - Isoleucine  
+
+  Isoleucine - Leucine - Leucine - Glutamic Acid - Phenylalanine - Leucine - Isoleucine - Phenylalanine - Tryptophan - Serine - Lysine - Arginine - Threonine - Lysine - Tyrosine - Tyrosine - Isoleucine - Serine - Phenylalanine - Serine - Valine - Tryptophan - Asparagine - Phenylalanine - Asparagine - Phenylalanine - Serine - Histidine - Glycine - Unknown - Phenylalanine - Glutamine - Arginine - Tyrosine - Tyrosine - Tyrosine - Arginine  
+
+  Arginine - Alanine  
+
+  Lysine - Alanine - Proline  Arginine - Methionine - Glutamic Acid - Proline - Serine - Asparagine - Arginine - Phenylalanine - Proline - Isoleucine - Proline - Tyrosine - Methionine - Aspartic Acid - Leucine - Serine - Serine - Threonine - Isoleucine - Cysteine - Leucine - Cysteine - Glutamine - Glutamine - Glutamic Acid  
+
+  Valine - Phenylalanine - Valine - Tyrosine - Asparagine  
+
+  Valine - Asparagine - Phenylalanine - Proline - Leucine - Alanine - Valine - Methionine - Alanine - Serine - Asparagine - Phenylalanine - Asparagine - Leucine - Phenylalanine - Cysteine - Alanine - Cysteine - Cysteine - Cysteine - Leucine - Glutamine - Asparagine - Lysine - Leucine - Aspartic Acid - Histidine - Arginine - Tryptophan - Asparagine - Cysteine - Tyrosine - Arginine - Asparagine - Glycine - Leucine - Serine - Cysteine - Arginine - Leucine - Aspartic Acid - Valine - Alanine - Glutamine - Leucine - Leucine - Histidine - Cysteine - Phenylalanine - Phenylalanine - Glutamine - Threonine - Valine - Cysteine - Alanine - Tyrosine - Alanine - Phenylalanine - Histidine - Valine - Valine - Isoleucine - Glutamine - Serine - Arginine - Asparagine 
+
+  Histidine - Serine - Serine - Glutamine - Arginine - Alanine - Threonine - Proline - Tryptophan - Histidine - Tyrosine - Serine - Aspartic Acid - Glutamine - Threonine - Alanine - Serine - Arginine - Lysine  
+
+  Threonine - Arginine - Asparagine - Arginine - Serine - Cysteine - Aspartic Acid - Proline - Serine - Tryptophan - Threonine - Serine - Serine - Tyrosine - Cysteine - Tryptophan - Threonine - Proline - Serine - Arginine - Threonine - Leucine  
+
+  Histidine - Glutamine - Glycine - Proline - Alanine  Arginine - Asparagine - Histidine - Cysteine - Cysteine - Tyrosine - Isoleucine - Threonine - Asparagine - Alanine - Phenylalanine - Leucine - Leucine - Glutamine - Isoleucine - Glycine - Serine - Phenylalanine - Alanine - Alanine - Cysteine - Serine - Arginine  
+
+  Leucine - Arginine - Phenylalanine - Cysteine - Cysteine - Isoleucine - Glutamine - Serine - Leucine - Glutamine - Aspartic Acid - Tryptophan - Glutamine - Leucine  
+
+  Isoleucine - Lysine - Histidine - Arginine - Proline - Phenylalanine - Glutamine  
+
+  Glutamine  
+
+  Glutamine - Tyrosine - Cysteine - Phenylalanine - Alanine - Cysteine - Threonine - Valine - Serine - Aspartic Acid - Asparagine - Arginine - Cysteine - Phenylalanine - Isoleucine - Serine - Leucine - Threonine - Phenylalanine - Arginine - Leucine - Leucine  
+
+  Glutamine - Arginine - Tyrosine - Tyrosine  
+
+  Leucine - Leucine - Cysteine - Glycine - Leucine - Leucine - Lysine - Phenylalanine - Proline - Phenylalanine - Glycine - Isoleucine - Leucine - Isoleucine - Threonine - Serine  
+
+  Threonine - Serine  
+
+  Leucine - Lysine - Isoleucine - Tyrosine - Leucine - Serine - Histidine  
+
+  Leucine - Arginine - Isoleucine - Asparagine - Isoleucine - Leucine - Asparagine  Methionine - Lysine - Serine - Asparagine - Glutamine - Tryptophan - Arginine - Leucine - Isoleucine - Lysine - Arginine - Threonine 
+
+   Lysine - Leucine - Phenylalanine - Phenylalanine - Serine - Tryptophan - Histidine 
+
+
+  Histidine - Serine - Leucine - Leucine - Valine - Serine - Phenylalanine - Isoleucine - Threonine - Threonine - Lysine - Serine - Valine - Leucine - Glutamic Acid - Valine - Glutamine - Glutamine - Tyrosine - Phenylalanine  
+
+  Lysine - Asparagine - Leucine - Alanine - Leucine - Leucine - Glutamic Acid - Histidine - Threonine - Arginine - Alanine - Isoleucine - Histidine - Histidine - Phenylalanine - Isoleucine - Leucine  
+
+  Leucine - Isoleucine - Threonine - Asparagine - Leucine - Histidine  
+
+  Leucine - Alanine - Leucine - Alanine - Leucine - Asparagine - Leucine - Leucine - Leucine - Leucine - Valine - Leucine - Threonine - Alanine  
+
+  Asparagine - Threonine - Serine - Isoleucine - Serine - Tyrosine - Valine - Proline - Aspartic Acid - Glutamine - Phenylalanine - Histidine - Leucine - Asparagine - Cysteine - Serine - Serine - Aspartic Acid - Lysine - Arginine - Lysine - Phenylalanine - Lysine - Asparagine - Phenylalanine - Threonine - Leucine - Glutamine - Phenylalanine - Phenylalanine - Leucine - Leucine - Leucine - Arginine - Glutamine  
+
+  Cysteine - Leucine  
+
+  Histidine - Phenylalanine - Alanine - Serine - Histidine - Serine - Lysine - Glutamic Acid - Arginine - Glutamine - Asparagine - Aspartic Acid  
+
+  Threonine - Phenylalanine - Isoleucine - Asparagine  
+
+  Leucine - Leucine - Phenylalanine - Valine - Leucine - Phenylalanine - Serine - Leucine - Serine - Valine - Isoleucine - Proline - Cysteine - Phenylalanine - Asparagine - Tyrosine - Alanine - Tyrosine - Tyrosine - Leucine - Leucine - Valine - Leucine - Threonine  
+
+  Threonine - Alanine - Arginine - Serine  
+
+
+  Asparagine - Leucine - Serine - Arginine - Leucine - Asparagine - Glutamic Acid - Histidine - Glutamic Acid - Isoleucine - Serine - Cysteine - Phenylalanine - Leucine - Arginine - Asparagine - Histidine - Histidine - Asparagine - Cysteine - Serine - Cysteine - Isoleucine - Serine - Proline - Arginine - Methionine  Phenylalanine - Threonine - Valine - Methionine - Tyrosine - Serine - Threonine - Serine - Threonine - Isoleucine - Cysteine - Serine  "                            " - Proline - Valine - Serine - Tyrosine - Serine - Leucine - Leucine - Phenylalanine  Methionine - Valine - Tyrosine  Serine - Arginine - Serine  Lysine - Isoleucine - Serine - Threonine - Phenylalanine - Asparagine  Isoleucine - Valine - Arginine - Glycine  Glycine - Tryptophan - Phenylalanine  Isoleucine - Threonine - Histidine - Serine - Valine - Histidine - Arginine - Tyrosine - Arginine  Leucine - Tyrosine - Serine - Phenylalanine - Leucine - Phenylalanine - Threonine - Phenylalanine - Tyrosine - Asparagine  Leucine - Proline - Glycine - Threonine  Isoleucine - Glycine  Serine - Cysteine - Serine - Alanine - Leucine - Phenylalanine - Valine - Leucine  Arginine - Leucine - Phenylalanine - Arginine - Valine - Serine  Arginine - Serine - Cysteine - Cysteine - Phenylalanine - Arginine - Phenylalanine - Histidine - Leucine - Asparagine - Glutamic Acid - Glutamine - Threonine  Methionine - Serine - Aspartic Acid - Asparagine - Glycine - Proline - Glutamine - Asparagine - Glutamine - Arginine - Asparagine - Alanine - Leucine - Arginine - Isoleucine - Threonine - Phenylalanine - Glycine - Glycine - Proline - Serine - Aspartic Acid - Serine - Threonine - Glycine - Serine - Asparagine - Glutamine - Asparagine - Glycine - Glycine - Alanine - Arginine - Serine - Lysine - Glutamine - Arginine - Arginine - Proline - Glutamine - Glycine - Leucine - Proline - Asparagine - Asparagine - Threonine - Alanine - Serine - Tryptophan - Phenylalanine - Threonine - Alanine - Leucine - Threonine - Glutamine - Histidine - Glycine - Lysine - Glutamic Acid - Aspartic Acid - Leucine - Lysine - Phenylalanine - Proline - Arginine - Glycine - Glutamine - Glycine - Valine - Proline - Isoleucine - Asparagine - Threonine - Asparagine - Serine - Serine - Proline - Aspartic Acid - Aspartic Acid - Glutamine - Isoleucine - Glycine - Tyrosine - Tyrosine - Arginine - Arginine - Alanine - Threonine - Arginine - Arginine - Isoleucine - Arginine - Glycine - Glycine - Aspartic Acid - Glycine - Lysine - Methionine - Lysine - Aspartic Acid - Leucine - Serine - Proline - Arginine - Tryptophan - Tyrosine - Phenylalanine - Tyrosine - Tyrosine - Leucine - Glycine - Threonine - Glycine - Proline - Glutamic Acid - Alanine - Glycine - Leucine - Proline - Tyrosine - Glycine - Alanine - Asparagine - Lysine - Aspartic Acid - Glycine - Isoleucine - Isoleucine - Tryptophan - Valine - Alanine - Threonine - Glutamic Acid - Glycine - Alanine - Leucine - Asparagine - Threonine - Proline - Lysine - Aspartic Acid - Histidine - Isoleucine - Glycine - Threonine - Arginine - Asparagine - Proline - Alanine - Asparagine - Asparagine - Alanine - Alanine - Isoleucine - Valine - Leucine - Glutamine - Leucine - Proline - Glutamine - Glycine - Threonine - Threonine - Leucine - Proline - Lysine - Glycine - Phenylalanine - Tyrosine - Alanine - Glutamic Acid - Glycine - Serine - Arginine - Glycine - Glycine - Serine - Glutamine - Alanine - Serine - Serine - Arginine - Serine - Serine - Serine - Arginine - Serine - Arginine - Asparagine - Serine - Serine - Arginine - Asparagine - Serine - Threonine - Proline - Glycine - Serine - Serine - Lysine - Arginine - Threonine - Serine - Proline - Alanine - Arginine - Methionine - Alanine - Glycine - Asparagine - Glycine - Glycine - Aspartic Acid - Alanine - Alanine - Leucine - Alanine - Leucine - Leucine - Leucine - Leucine - Aspartic Acid - Arginine - Leucine - Asparagine - Glutamine - Leucine - Glutamic Acid - Serine - Lysine - Methionine - Serine - Glycine - Lysine - Glycine - Glutamine - Glutamine - Glutamine - Glutamine - Glycine - Glutamine - Threonine - Valine - Threonine - Lysine - Lysine - Serine - Alanine - Alanine - Glutamic Acid - Alanine - Serine - Lysine - Lysine - Proline - Arginine - Glutamine - Lysine - Arginine - Threonine - Alanine - Threonine - Lysine - Alanine - Tyrosine - Asparagine - Valine - Threonine - Glutamine - Alanine - Phenylalanine - Glycine - Arginine - Arginine - Glycine - Proline - Glutamic Acid - Glutamine - Threonine - Glutamine - Glycine - Asparagine - Phenylalanine - Glycine - Aspartic Acid - Glutamine - Glutamic Acid - Leucine - Isoleucine - Arginine - Glutamine - Glycine - Threonine - Aspartic Acid - Tyrosine - Lysine - Histidine - Tryptophan - Proline - Glutamine - Isoleucine - Alanine - Glutamine - Phenylalanine - Alanine - Proline - Serine - Alanine - Serine - Alanine - Phenylalanine - Phenylalanine - Glycine - Methionine - Serine - Arginine - Isoleucine - Glycine - Methionine - Glutamic Acid - Valine - Threonine - Proline - Serine - Glycine - Threonine - Tryptophan - Leucine - Threonine - Tyrosine - Threonine - Glycine - Alanine - Isoleucine - Lysine - Leucine - Aspartic Acid - Aspartic Acid - Lysine - Aspartic Acid - Proline - Asparagine - Phenylalanine - Lysine - Aspartic Acid - Glutamine - Valine - Isoleucine - Leucine - Leucine - Asparagine - Lysine - Histidine - Isoleucine - Aspartic Acid - Alanine - Tyrosine - Lysine - Threonine - Phenylalanine - Proline - Proline - Threonine - Glutamic Acid - Proline - Lysine - Lysine - Aspartic Acid - Lysine - Lysine - Lysine - Lysine - Alanine - Aspartic Acid - Glutamic Acid - Threonine - Glutamine - Alanine - Leucine - Proline - Glutamine - Arginine - Glutamine - Lysine - Lysine - Glutamine - Glutamine - Threonine - Valine - Threonine - Leucine - Leucine - Proline - Alanine - Alanine - Aspartic Acid - Leucine - Aspartic Acid - Aspartic Acid - Phenylalanine - Serine - Lysine - Glutamine - Leucine - Glutamine - Glutamine - Serine - Methionine - Serine - Serine - Alanine - Aspartic Acid - Serine - Threonine - Glutamine - Alanine  
+
+  Threonine - Histidine - Alanine - Aspartic Acid - Histidine - Threonine - Arginine - Glutamine - Methionine - Glycine - Tyrosine - Isoleucine - Asparagine - Valine - Phenylalanine - Alanine - Phenylalanine - Proline - Phenylalanine - Threonine - Isoleucine - Tyrosine - Serine - Leucine - Leucine - Leucine - Cysteine - Arginine - Methionine - Asparagine - Serine - Arginine - Asparagine - Tyrosine - Isoleucine - Alanine - Glutamine - Valine - Aspartic Acid - Valine - Valine - Asparagine - Phenylalanine - Asparagine - Leucine - Threonine  
+
+  Glutamine - Serine - Leucine - Isoleucine - Serine - Valine  
+
+  Histidine  
+
+  Glycine - Glycine - Leucine - Glutamic Acid - Arginine - Alanine - Threonine - Threonine - Phenylalanine - Serine - Proline - Arginine - Proline - Arginine - Glycine - Valine - Arginine - Serine - Serine - Valine - Glutamine  
+
+  Threonine - Methionine - Leucine - Glycine - Arginine - Alanine - Alanine - Tyrosine - Methionine - Glutamic Acid - Glutamic Acid - Proline  
+
+  Cysteine - Valine - Lysine - Leucine - Isoleucine - Leucine - Valine - Valine - Leucine - Serine - Proline - Cysteine - Aspartic Acid - Phenylalanine - Asparagine - Serine
+
+
+OR:
+
+MLSALTQYN
+
+LITVVDRTRVTRLSSAGCLRFRPCCSRSSAHLGFVRV
+
+PKGKMESLVPGFNEKTHVQLSLPVLQVRDVLVRGFGDSVEEVLSEARQHLKDGTCGLVEVEKGVLPQLEQPYVFIKRSDARTAPHGHVMVELVAELEGIQYGRSGETLGVLVPHVGEIPVAYRKVLLRKNGNKGAGGHSYGADLKSFDLGDELGTDPYEDFQENWNTKHSSGVTRELMRELNGGAYTRYVDNNFCGPDGYPLECIKDLLARAGKASCTLSEQLDFIDTKRGVYCCREHEHEIAWYTERSEKSYELQTPFEIKLAKKFDTFNGECPNFVFPLNSIIKTIQPRVEKKKLDGFMGRIRSVYPVASPNECNQMCLSTLMKCDHCGETSWQTGDFVKATCEFCGTENLTKEGATTCGYLPQNAVVKIYCPACHNSEVGPEHSLAEYHNESGLKTILRKGGRTIAFGGCVFSYVGCHNKCAYWVPRASANIGCNHTGVVGEGSEGLNDNLLEILQKEKVNINIVGDFKLNEEIAIILASFSASTSAFVETVKGLDYKAFKQIVESCGNFKVTKGKAKKGAWNIGEQKSILSPLYAFASEAARVVRSIFSRTLETAQNSVRVLQKAAITILDGISQYSLRLIDAMMFTSDLATNNLVVMAYITGGVVQLTSQWLTNIFGTVYEKLKPVLDWLEEKFKEGVEFLRDGWEIVKFISTCACEIVGGQIVTCAKEIKESVQTFFKLVNKFLALCADSIIIGGAKLKALNLGETFVTHSKGLYRKCVKSREETGLLMPLKAPKEIIFLEGETLPTEVLTEEVVLKTGDLQPLEQPTSEAVEAPLVGTPVCINGLMLLEIKDTEKYCALAPNMMVTNNTFTLKGGAPTKVTFGDDTVIEVQGYKSVNITFELDERIDKVLNERCSAYTVELGTEVNEFACVVADAVIKTLQPVSELLTPLGIDLDEWSMATYYLFDESGEFKLASHMYCSFYPPDEDEEEGDCEEEEFEPSTQYEYGTEDDYQGKPLEFGATSAALQPEEEQEEDWLDDDSQQTVGQQDGSEDNQTTTIQTIVEVQPQLEMELTPVVQTIEVNSFSGYLKLTDNVYIKNADIVEEAKKVKPTVVVNAANVYLKHGGGVAGALNKATNNAMQVESDDYIATNGPLKVGGSCVLSGHNLAKHCLHVVGPNVNKGEDIQLLKSAYENFNQHEVLLAPLLSAGIFGADPIHSLRVCVDTVRTNVYLAVFDKNLYDKLVSSFLEMKSEKQVEQKIAEIPKEEVKPFITESKPSVEQRKQDDKKIKACVEEVTTTLEETKFLTENLLLYIDINGNLHPDSATLVSDIDITFLKKDAPYIVGDVVQEGVLTAVVIPTKKAGGTTEMLAKALRKVPTDNYITTYPGQGLNGYTVEEAKTVLKKCKSAFYILPSIISNEKQEILGTVSWNLREMLAHAEETRKLMPVCVETKAIVSTIQRKYKGIKIQEGVVDYGARFYFYTSKTTVASLINTLNDLNETLVTMPLGYVTHGLNLEEAARYMRSLKVPATVSVSSPDAVTAYNGYLTSSSKTPEEHFIETISLAGSYKDWSYSGQSTQLGIEFLKRGDKSVYYTSNPTTFHLDGEVITFDNLKTLLSLREVRTIKVFTTVDNINLHTQVVDMSMTYGQQFGPTYLDGADVTKIKPHNSHEGKTFYVLPNDDTLRVEAFEYYHTTDPSFLGRYMSALNHTKKWKYPQVNGLTSIKWADNNCYLATALLTLQQIELKFNPPALQDAYYRARAGEAANFCALILAYCNKTVGELGDVRETMSYLFQHANLDSCKRVLNVVCKTCGQQQTTLKGVEAVMYMGTLSYEQFKKGVQIPCTCGKQATKYLVQQESPFVMMSAPPAQYELKHGTFTCASEYTGNYQCGHYKHITSKETLYCIDGALLTKSSEYKGPITDVFYKENSYTTTIKPVTYKLDGVVCTEIDPKLDNYYKKDNSYFTEQPIDLVPNQPYPNASFDNFKFVCDNIKFADDLNQLTGYKKPASRELKVTFFPDLNGDVVAIDYKHYTPSFKKGAKLLHKPIVWHVNNATNKATYKPNTWCIRCLWSTKPVETSNSFDVLKSEDAQGMDNLACEDLKPVSEEVVENPTIQKDVLECNVKTTEVVGDIILKPANNIKITEEVGHTDLMAAYVDNSSLTIKKPNELSRVLGLKTLATHGLAAVNSVPWDTIANYAKPFLNKVVSTTTNIVTRCLNRVCTNYMPYFFTLLLQLCTFTRSTNSRIKASMPTTIAKNTVKSVGKFCLEASFNYLKSPNFSKLINIIIWFLLLSVCLGSLIYSTAALGVLMSNLGMPSYCTGYREGYLNSTNVTIATYCTGSIPCSVCLSGLDSLDTYPSLETIQITISSFKWDLTAFGLVAEWFLAYILFTRFFYVLGLAAIMQLFFSYFAVHFISNSWLMWLIINLVQMAPISAMVRMYIFFASFYYVWKSYVHVVDGCNSSTCMMCYKRNRATRVECTTIVNGVRRSFYVYANGGKGFCKLHNWNCVNCDTFCAGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVTVKNGSIHLYFDKAGQKTYERHSLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCEESSAKSASVYYSQLMCQPILLLDQALVSDVGDSAEVAVKMFDAYVNTFSSTFNVPMEKLKTLVATAEAELAKNVSLDNVLSTFISAARQGFVDSDVETKDVVECLKLSHQSDIEVTGDSCNNYMLTYNKVENMTPRDLGACIDCSARHINAQVAKSHNITLIWNVKDFMSLSEQLRKQIRSAAKKNNLPFKLTCATTRQVVNVVTTKIALKGGKIVNNWLKQLIKVTLVFLFVAAIFYLITPVHVMSKHTDFSSEIIGYKAIDGGVTRDIASTDTCFANKHADFDTWFSQRGGSYTNDKACPLIAAVITREVGFVVPGLPGTILRTTNGDFLHFLPRVFSAVGNICYTPSKLIEYTDFATSACVLAAECTIFKDASGKPVPYCYDTNVLEGSVAYESLRPDTRYVLMDGSIIQFPNTYLEGSVRVVTTFDSEYCRHGTCERSEAGVCVSTSGRWVLNNDYYRSLPGVFCGVDAVNLLTNMFTPLIQPIGALDISASIVAGGIVAIVVTCLAYYFMRFRRAFGEYSHVVAFNTLLFLMSFTVLCLTPVYSFLPGVYSVIYLYLTFYLTNDVSFLAHIQWMVMFTPLVPFWITIAYIICISTKHFYWFFSNYLKRRVVFNGVSFSTFEEAALCTFLLNKEMYLKLRSDVLLPLTQYNRYLALYNKYKYFSGAMDTTSYREAACCHLAKALNDFSNSGSDVLYQPPQISITSAVLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGHSMQNCVLKLKVDTANPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRHNFTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGNFYGPFVDRQTAQAAGTDTTITVNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCASLKELLQNGMNGRTILGSALLEDEFTPFDVVRQCSGVTFQSAVKRTIKGTHHWLLLTILTSLLVLVQSTQWSLFFFLYENAFLPFAMGIIAMSAFAMMFVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLDMVDTSFKLKDCVMYASAVVLLILMTARTVYDDGARRVWTLMNVLTLVYKVYYGNALDQAISMWALIISVTSNYSGVVTTVMFLARGVVFMCVEYCPIFFITGNTLQCIMLVYCFLGYFCTCYFGLFCLLNRYFRLTLGVYDYLVSTQEFRYMNSQGLLPPKNSIDAFKLNIKLLGVGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQGAVDINKLCEEMLDNRATLQAIASEFSSLPSYAAFATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVIPDYNTYKNTCDGTTFTYASALWEIQQVVDADSKIVQLSEISMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNTTKGGRFVLALLSDLQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDAAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLKNTVCTVCGMWKGYGCSCDQLREPMLQSADAQSFLNGFAV
+
+VQPVLHRAAQALVLMSYTGLLTSTMIK
+
+LVLLNSKLIVVASKKRTKMTILILTL
+
+LRDTLSLTTNMKKQFIIYLRIVQLLLNMTSLSLE
+
+TVTWYHIYHVNVLLNTQWQTSSML
+
+GILMKVIVTH
+
+KKYLSHTIVVMMIISIKRTGMIL
+
+KTQIYYAYTPT
+
+VNVYAKLC
+
+KQYNSVMPCEMLVLLVY
+
+H
+
+IIKISMVTGMISVISYKPRQVVEFLL
+
+ILIIHC
+
+CLY
+
+P
+
+PGL
+
+LQSHMLTLT
+
+QSLTLSGIC
+
+NMTSRKRG
+
+NSLTVILNIGIRHTTQIVLTVWMTDAFCIVQTLMFYSLQCSHLQVLDH
+
+EKYLLMVFHL
+
+FQLDTTSES
+
+VLYIIRM
+
+TYIALDLVLRNYLCMLLTLLCTLLLVIYY
+
+INALRAFQ
+
+LHLLTMLLFKLSNPVILTKTSMTLLCLRVSLRKEVLLN
+
+NTSSLLRMVMLLSAIMTTIVIIYQQCVISDNYYL
+
+LKLLISTLIVTMVAVLMLTKSSSTT
+
+TNQLVFHLINGVRLDFIMIQ
+
+VMRIKMHFSHIQNVMSSLL
+LK
+
+ILSMPLVQRIELAP
+
+LVSLSVVL
+
+PIDSFIKNY
+
+NQ
+
+PPLEELL
+
+LEQANSMVVGTIC
+
+KLFIVM
+
+KTLTLWVGIILNVIEPCLTCLELWPHLFLLANIQRVVACHTVSID
+LMSVLKY
+
+VKWSCVAVHYMLNQVEPHQEMPQLLMLIVFLTFVKLSRPMLMHFYLLMVTKLPISMSAIYNTDFMSVSIEIEMLTQTL
+
+MSFTHICVNISQ
+
+YSLTMLLCVSIALMHLKV
+
+WLA
+
+RTLSQFFIIKTMFLCLKQNVGLRLTLLKDLMNFALNIQC
+
+LNRVMIMCTFLTQIHQES
+
+GPAVL
+MIS
+KQMVHL
+LNGSCL
+L
+MLTHLLNILIRSMLMSFICTYNT
+ESYMMS
+QDTC
+TCILLCLLMITLQGIGNLSFMRLCTHRIQSYRLLGLVFFAIHRLH
+DVVLAYVDHSYVVNAVTTMSYQHHIN
+SCLLIRMFAMLQVVMSQM
+LNFT
+EV
+AIIVNHINHPLVFHCVLMDKFLVYIKIHVLVAIMLLTLMQLQHVTGQMLVITF
+LTPVLKDSSFLQQKRSKLLRRHLNCLMVLLLYVKCCLTENYIFHGKLVNLDHHLTEIMSLLVIV
+LKTVKYK
+ESTPLKKVTMVMLLFTEVQQLTN
+MLVIILC
+HHIQ
+CH
+VHLH
+CHKSTMLELLAYTQHSISQMSFLAMLQIIKRLVCKSILHSRDHLVLVRVILLLA
+LSTTLLLA
+CIQLALMPLLMHYVRRH
+NICL
+INVVELYLHVLV
+SVLINSK
+IQH
+NSMSFVL
+MHCLRRQQI
+LSLMKFQWPQIMI
+VLSMPDYVLSTMCTLATLLNYLHHAHC
+LRAH
+NQNISIQCVDL
+KL
+VQTCSSELVGVVLLKLLTL
+VLWFMIISLKHIKTNQLNALKCFIRVLSRMMFHLQLTGHK
+AW
+ENSLHVTLLGEKLSLFHLIIHRML
+PQRFWDYQLKLLIHHRAQNMTMSYSLKPLKQLTLVM
+TDLMLLLPEQK
+AYFA
+CLIETFMTSCNLQVLKFHVGMWQLYKLKM
+QDSLKIVVR
+SLGYILHRHLHTSVLTLNSKLKVYVLTYLAYLRT
+PIEDSSL
+WVLK
+IIKLMVTLTCLSPAKKL
+DMYVHGLASMSRGVMLLEKLLVPIYLYS
+VFLQVLT
+LLYLQVMLIHLIIQIFPELVLNHRLEINLNTSYHLCTKDFLGM
+CV
+RLYKC
+VTHLKISLTESYLSYGHMALS
+HL
+SIL
+K
+DLSAPVVYVIDVPHAFPLLQTLMPVGIILLDLITSIIRL
+LMFNNGVLQVTYKATMICIVKSMVMHM
+LVVMQS
+LGV
+LSTSALLSVLTGLLNIL
+LVMN
+RLMRLVERFNTWLLKLHY
+QTNSQFFTTLVTLKLLSVYLKLM
+NGSSMMHSLVVTKLIK
+KNYSILMPHILTNSQMVYAYFGIAMSIDILLIPLFVDLTLECYLTLTCLVVMVAVCM
+INMHSTHQLLIKVLLLI
+NNYHFSITLTVHVSLMENK
+CQI
+IMYH
+SLLRV
+HVAI
+VVLSVDIMLMSTDCISMLIT
+SQLALACGFTNNLILITSGTLLQDFRV
+KMWLLML
+IRDTLMDNRVKYQFLSLITLFTQKLMVLM
+NCLKIKQHYLLM
+HLSFGLSATLNQYQR
+KYSIIWVWTLLLIL
+SGTTKEMLQHIYLLLVFVL
+LT
+PRNQLKRFVHHSLSFLMVELMVK
+TYLEMPVMVFLLQKVVLKVYNHL
+VPNKLVLMESH
+LEKP
+KHSSIIIRKLMVLSNNYLKLTLLRVEIYKNLNPGVKWKLIS
+N
+LWMNSLNGIN
+KAMPSNISFMEILVIVS
+VVYIY
+LD
+LNVLRNHLLN
+KILFLWTVQLKTIS
+QMRKQVHLSVCVLLLIYYLMILLK
+NPKIYL
+FLRLSK
+LLTIQKFHLCFGVKMAM
+KHFTQNYNLVKRGNRVLLCLIFTKCKECY
+KSVTFKIMVIVQHYLKA
+MSQNILNCVNI
+TH
+H
+LYPII
+ELYILVLVLIKELHQVQLF
+DSGCLRVRCLSIQILMTLSLMQIQL
+LVIVQLYIQLINGISLLVICTTLRLKMLQKKMTLKRVFSLTFVGLYNKS
+LLEVPWL
+R
+QNILGMLIFISSWDTSHGGQPLLLM
+MRHHLKHF
+LDVIILANHANK
+MVMSCMQITYFGGIQIQFSCLPILYLT
+VNFPLN
+GVLLLCL
+KKVKSMI
+FYLFLVKVDL
+
+
+LEKTTELLFLVMFLLTTKRTMFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHVISGTNGTKRFDNPVLPFNDGVYFASIEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFCNDPFLDHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIYSKHTPIIVREPEDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFDEVFNATKFASVYAWNRKRISNCVADYSVLYNLAPFFTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGNIADYNYKLPDDFTGCVIAWNSNKLDSKVSGNYNYLYRLFRKSNLKPFERDISTEIYQAGNKPCNGVAGFNCYFPLRSYSFRPTYGVGHQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLKGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLYQGVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEYVNNSYECDIPIGAGICASYQTQTKSHRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQYGSFCTQLKRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKYFGGFNFSQILPDPSKPSKRSFIEDLLFNKVTLADAGFIKQYGDCLGDIAARDLICAQKFKGLTVLPPLLTDEMIAQYTSALLAGTITSGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQDVVNHNAQALNTLVKQLSSKFGAISSVLNDIFSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCCSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT
+
+TNLWICL
+
+ESSQLEL
+
+L
+
+SKVKSRMLLLQILFALLQRYRYKPHSLSDGLLLALHFLLFFRALPKS
+
+LSKRDGN
+
+HSPRVFTLFATCCCCLQFTHTFCSLLLALKPLFSIFMLSTSCRV
+TLE
+GFGFAGNAVPKTHYFMMPTIFFAGILIVTTIVYLTIV
+LLQLSLLQVMAQQVLFLNMTTRLVVILKNGNLE
+KTVLYYTVTSLQTITSCTQLN
+VQTLVLNMLPSSSTIKLLMSLKNMSKFTQSTVHPELLIQ
+WNQFMMNRRRLLACLCKHKLMSTNLCTHSFRKR
+VR
+LIAYFFFLLSWYSC
+LH
+PSLLRFDCVRTAAILLT
+VL
+NLLFTFTLVLKI
+ILLEFLIFWSKRTKYYISFSVWNFNFSHGFQRYYYR
+RA
+KAP
+RMEPSNRFPIPYMDLSSTICLCQQE
+VFVYN
+VNFPLAVMASNFNLFCACCCLQNKLDHRWNCYRNGLSCRLDVAQLLHCFFQTVCAYAFHVVIQSRN
+HSSQRATPWHYSDQTASRK
+TRNRSCDPSWTSSYCWTPSRTL
+HQGPA
+RNHCCYITNAFLLQIGSFAACSR
+LRFCCIQSLQDWQL
+IKHRPFQ
+Q
+QYCFACTVSDNRCFISLTFRLL
+QRYY
+LLCGLLKFPFGILITS
+TS
+LKIYLSH
+LRINILN
+MKSNQWRLIKRT
+KLFFSWH
+HSLLVSFITTKSVLEVQQYF
+KNLALLEHTRAIHHFIL
+LITNLH
+LALALNLLLLVLTA
+NTSISYVPDQFHLNCSSDKRKFKNFTLQFFLLLRQ
+CL
+HFASHSKERQND
+TFIN
+LLFVLFSLSVIPCFNYAYYLLVLT
+TARS
+NLSRLNEHEISCFLRNHHNCSCISPRM
+FTVMYSTSTICS
+PVSYSLLF
+MVY
+SRS
+KISTFN
+IVRG
+GWF
+ITHSVHRYR
+LYSFLFTFYN
+LPGT
+IG
+SCSALFVL
+RLFRVS
+RSCCFRFHLNEQT
+MSDNGPQNQRNALRITFGGPSDSTGSNQNGGARSKQRRPQGLPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAYKTFPPTEPKKDKKKKADETQALPQRQKKQQTVTLLPAADLDDFSKQLQQSMSSADSTQA
+THADHTRQMGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+QSLISV
+H
+GGLERATTFSPRPRGVRSSVQ
+TMLGRAAYMEEP
+CVKLILVVLSPCDFNS
